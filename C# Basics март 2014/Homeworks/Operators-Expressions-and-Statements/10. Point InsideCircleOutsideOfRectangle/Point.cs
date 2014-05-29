@@ -1,0 +1,46 @@
+﻿using System;
+
+
+class Point
+{
+    static void Main()
+{
+        Console.WriteLine("Please enter a X for point P(x,y):");
+        double pointX = double.Parse(Console.ReadLine());
+        Console.WriteLine("Please enter a Y for point P(x,y):");
+        double pointY = double.Parse(Console.ReadLine());
+        double pointXcenterCircle = Math.Abs(pointX - 1);
+        double pointYcenterCircle = Math.Abs(pointY - 1);
+        bool inRectangle = false;
+        bool inCircle = false;
+ 
+        if (Math.Sqrt((pointXcenterCircle) * (pointXcenterCircle) + (pointYcenterCircle) * (pointYcenterCircle)) <= 1.5)
+        {
+            inCircle = true;
+        }
+        if (pointX >= -1 && pointX <= 5 && pointY <= 1 && pointY >= -1)
+        {
+            inRectangle = true;
+        }
+        if (inCircle && !inRectangle)
+        {
+            Console.WriteLine("The point P({0},{1}) is in the circle K((1,1),1.5), but not in the rectangle R(1,-1,6,2).", pointX, pointY);
+        }
+        else if (inRectangle)
+        {
+            Console.WriteLine("The point P({0},{1}) is in the rectangle R(1,-1,6,2).", pointX, pointY);
+        }
+        else if (inCircle)
+        {
+            Console.WriteLine("The point P({0},{1}) is in the circle K((1,1),1.5).", pointX, pointY);
+        }
+        else if (inCircle && inRectangle)
+        {
+            Console.WriteLine("The point P({0},{1}) is in the circle K((1,1),1.5) and in the rectangle R(1,-1,6,2).", pointX, pointY);
+        }
+        else
+        {
+            Console.WriteLine("The point P({0},{1}) is NOT in the circle K((1,1),1.5) and NOT in the rectangle R(1,-1,6,2).", pointX, pointY);
+        }
+    }
+}

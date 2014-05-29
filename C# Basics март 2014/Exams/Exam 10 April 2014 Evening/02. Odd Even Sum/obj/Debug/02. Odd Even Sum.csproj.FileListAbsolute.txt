@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\02. Odd Even Sum\bin\Debug\_02.Odd_Even_Sum.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\02. Odd Even Sum\bin\Debug\_02.Odd_Even_Sum.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\02. Odd Even Sum\obj\Debug\02. Odd Even Sum.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\02. Odd Even Sum\obj\Debug\_02.Odd_Even_Sum.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\02. Odd Even Sum\obj\Debug\_02.Odd_Even_Sum.pdb

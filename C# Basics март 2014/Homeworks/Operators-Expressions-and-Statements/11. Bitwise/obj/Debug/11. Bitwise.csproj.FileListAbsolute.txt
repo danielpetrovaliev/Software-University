@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11. Bitwise\bin\Debug\_11.Bitwise.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11. Bitwise\bin\Debug\_11.Bitwise.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11. Bitwise\obj\Debug\11. Bitwise.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11. Bitwise\obj\Debug\_11.Bitwise.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11. Bitwise\obj\Debug\_11.Bitwise.pdb

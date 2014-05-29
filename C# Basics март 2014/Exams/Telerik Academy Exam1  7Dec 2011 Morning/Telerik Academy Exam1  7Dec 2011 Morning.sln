@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fighter Attack", "01. Fighter Attack\01. Fighter Attack.csproj", "{ED76D72D-AFB4-4629-B0C2-6951AAC8E38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Sand glass", "03.Sand glass\03.Sand glass.csproj", "{28A1922E-21A2-4614-9BF2-E710536BE220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED76D72D-AFB4-4629-B0C2-6951AAC8E38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED76D72D-AFB4-4629-B0C2-6951AAC8E38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED76D72D-AFB4-4629-B0C2-6951AAC8E38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED76D72D-AFB4-4629-B0C2-6951AAC8E38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A1922E-21A2-4614-9BF2-E710536BE220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A1922E-21A2-4614-9BF2-E710536BE220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A1922E-21A2-4614-9BF2-E710536BE220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A1922E-21A2-4614-9BF2-E710536BE220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\07. Calculate NKK\bin\Debug\_07.Calculate_NKK.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\07. Calculate NKK\bin\Debug\_07.Calculate_NKK.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\07. Calculate NKK\obj\Debug\07. Calculate NKK.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\07. Calculate NKK\obj\Debug\_07.Calculate_NKK.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\07. Calculate NKK\obj\Debug\_07.Calculate_NKK.pdb

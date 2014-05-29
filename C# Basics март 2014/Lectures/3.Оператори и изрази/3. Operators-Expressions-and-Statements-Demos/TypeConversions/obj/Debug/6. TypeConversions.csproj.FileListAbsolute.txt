@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\TypeConversions\bin\Debug\TypeConversions.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\TypeConversions\bin\Debug\TypeConversions.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\TypeConversions\obj\Debug\TypeConversions.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\TypeConversions\obj\Debug\TypeConversions.pdb

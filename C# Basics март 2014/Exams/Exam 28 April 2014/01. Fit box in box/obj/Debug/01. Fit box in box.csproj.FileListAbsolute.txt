@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\01. Fit box in box\obj\Debug\01. Fit box in box.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\01. Fit box in box\bin\Debug\_01.Fit_box_in_box.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\01. Fit box in box\bin\Debug\_01.Fit_box_in_box.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\01. Fit box in box\obj\Debug\_01.Fit_box_in_box.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\01. Fit box in box\obj\Debug\_01.Fit_box_in_box.pdb

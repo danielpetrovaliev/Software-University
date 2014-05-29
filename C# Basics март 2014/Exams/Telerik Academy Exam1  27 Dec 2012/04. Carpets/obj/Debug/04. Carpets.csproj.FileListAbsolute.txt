@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  27 Dec 2012\04. Carpets\obj\Debug\04. Carpets.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  27 Dec 2012\04. Carpets\bin\Debug\_04.Carpets.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  27 Dec 2012\04. Carpets\bin\Debug\_04.Carpets.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  27 Dec 2012\04. Carpets\obj\Debug\_04.Carpets.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  27 Dec 2012\04. Carpets\obj\Debug\_04.Carpets.pdb

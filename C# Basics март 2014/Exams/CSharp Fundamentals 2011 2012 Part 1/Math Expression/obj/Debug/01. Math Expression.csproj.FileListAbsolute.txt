@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\Math Expression\bin\Debug\Math Expression.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\Math Expression\bin\Debug\Math Expression.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\Math Expression\obj\Debug\01. Math Expression.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\Math Expression\obj\Debug\Math Expression.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\Math Expression\obj\Debug\Math Expression.pdb

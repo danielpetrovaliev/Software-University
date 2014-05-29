@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\13. Binary to Decimal Number\obj\Debug\13. Binary to Decimal Number.csprojResolveAssemblyReference.cache

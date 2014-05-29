@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.pdb

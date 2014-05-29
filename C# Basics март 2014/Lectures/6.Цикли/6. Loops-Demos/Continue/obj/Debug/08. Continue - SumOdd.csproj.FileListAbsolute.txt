@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Continue\bin\Debug\Continue.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Continue\bin\Debug\Continue.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Continue\obj\Debug\08. Continue - SumOdd.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Continue\obj\Debug\Continue.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Continue\obj\Debug\Continue.pdb

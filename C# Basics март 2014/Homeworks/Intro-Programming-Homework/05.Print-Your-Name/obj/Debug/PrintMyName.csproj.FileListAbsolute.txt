@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Your-Name\obj\Debug\Print-Your-Name.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Your-Name\bin\Debug\Print-Your-Name.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Your-Name\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache

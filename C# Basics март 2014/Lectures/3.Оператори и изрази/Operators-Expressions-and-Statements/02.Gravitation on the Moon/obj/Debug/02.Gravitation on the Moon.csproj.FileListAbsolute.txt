@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.pdb

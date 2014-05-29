@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\05.Unicode Value\obj\Debug\05.Unicode Value.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\05.Unicode Value\obj\Debug\05.Unicode Value.pdb

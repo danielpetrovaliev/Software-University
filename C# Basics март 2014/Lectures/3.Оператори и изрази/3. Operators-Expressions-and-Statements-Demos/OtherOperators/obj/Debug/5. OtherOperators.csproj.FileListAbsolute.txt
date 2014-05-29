@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\OtherOperators\bin\Debug\OtherOperators.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\OtherOperators\bin\Debug\OtherOperators.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\OtherOperators\obj\Debug\5. OtherOperators.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\OtherOperators\obj\Debug\OtherOperators.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\3.Оператори и изрази\3. Operators-Expressions-and-Statements-Demos\OtherOperators\obj\Debug\OtherOperators.pdb

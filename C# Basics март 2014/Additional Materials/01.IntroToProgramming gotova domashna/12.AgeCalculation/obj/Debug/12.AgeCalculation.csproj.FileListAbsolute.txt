@@ -1,0 +1,12 @@
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.exe.config
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.pdb
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\obj\Debug\12.AgeCalculation.csprojResolveAssemblyReference.cache
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\obj\Debug\05.FirstLastName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\12.AgeCalculation\obj\Debug\05.FirstLastName.pdb
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.exe.config
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\obj\Debug\05.FirstLastName.exe
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\obj\Debug\05.FirstLastName.pdb
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.exe
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\bin\Debug\05.FirstLastName.pdb
+C:\Users\Daniel\Downloads\01.IntroToProgramming\12.AgeCalculation\obj\Debug\12.AgeCalculation.csprojResolveAssemblyReference.cache

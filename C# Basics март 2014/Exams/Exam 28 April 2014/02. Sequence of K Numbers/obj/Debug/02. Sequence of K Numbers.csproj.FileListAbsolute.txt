@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\bin\Debug\_02.Sequence_of_K_Numbers.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\bin\Debug\_02.Sequence_of_K_Numbers.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\bin\Debug\_02.Sequence_of_K_Numbers.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\obj\Debug\02. Sequence of K Numbers.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\obj\Debug\_02.Sequence_of_K_Numbers.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\02. Sequence of K Numbers\obj\Debug\_02.Sequence_of_K_Numbers.pdb

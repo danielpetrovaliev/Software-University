@@ -1,0 +1,9 @@
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\bin\Debug\03.PrintName.exe.config
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\bin\Debug\03.PrintName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\bin\Debug\03.PrintName.pdb
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\obj\Debug\03.PrintName.csprojResolveAssemblyReference.cache
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\obj\Debug\03.PrintName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\03.PrintName\obj\Debug\03.PrintName.pdb
+C:\Users\Daniel\Downloads\01.IntroToProgramming\03.PrintName\bin\Debug\03.PrintName.exe.config
+C:\Users\Daniel\Downloads\01.IntroToProgramming\03.PrintName\obj\Debug\03.PrintName.exe
+C:\Users\Daniel\Downloads\01.IntroToProgramming\03.PrintName\obj\Debug\03.PrintName.pdb

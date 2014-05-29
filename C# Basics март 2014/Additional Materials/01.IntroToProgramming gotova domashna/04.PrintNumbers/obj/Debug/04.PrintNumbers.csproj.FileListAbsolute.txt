@@ -1,0 +1,5 @@
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb

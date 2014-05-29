@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Sum\bin\Debug\Sum.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Sum\bin\Debug\Sum.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Sum\obj\Debug\Sum.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Sum\obj\Debug\Sum.pdb

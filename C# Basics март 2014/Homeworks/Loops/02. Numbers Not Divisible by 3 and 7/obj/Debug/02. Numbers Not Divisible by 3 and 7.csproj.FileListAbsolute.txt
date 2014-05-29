@@ -1,0 +1,4 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb

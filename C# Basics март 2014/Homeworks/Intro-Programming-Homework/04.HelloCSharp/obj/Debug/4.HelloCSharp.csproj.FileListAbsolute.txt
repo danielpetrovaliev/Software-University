@@ -1,0 +1,4 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.pdb

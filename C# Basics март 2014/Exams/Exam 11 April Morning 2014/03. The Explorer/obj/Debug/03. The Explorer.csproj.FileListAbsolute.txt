@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\03. The Explorer\bin\Debug\_03.The_Explorer.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\03. The Explorer\bin\Debug\_03.The_Explorer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\03. The Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\_03.The_Explorer.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\_03.The_Explorer.pdb
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Exams\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\_03.The_Explorer.exe
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Exams\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\_03.The_Explorer.pdb
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Exams\Exam 11 April Morning 2014\03. The Explorer\bin\Debug\_03.The_Explorer.exe
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Exams\Exam 11 April Morning 2014\03. The Explorer\bin\Debug\_03.The_Explorer.pdb
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Exams\Exam 11 April Morning 2014\03. The Explorer\obj\Debug\03. The Explorer.csprojResolveAssemblyReference.cache

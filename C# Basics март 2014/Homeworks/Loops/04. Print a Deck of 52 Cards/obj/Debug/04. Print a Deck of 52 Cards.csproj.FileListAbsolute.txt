@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\04. Print a Deck of 52 Cards\obj\Debug\04. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Homeworks\Loops\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+C:\Users\Daniel\Desktop\Software University\C# Basics март 2014\Homeworks\Loops\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb

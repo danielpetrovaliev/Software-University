@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\13. Check a Bit at Given Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\13. Check a Bit at Given Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\13. Check a Bit at Given Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\13. Check a Bit at Given Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\13. Check a Bit at Given Position\obj\Debug\13. Check a Bit at Given Position.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\05.FirstLastName\bin\Debug\05.FirstLastName.exe.config
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\05.FirstLastName\obj\Debug\05.FirstLastName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\05.FirstLastName\obj\Debug\05.FirstLastName.pdb

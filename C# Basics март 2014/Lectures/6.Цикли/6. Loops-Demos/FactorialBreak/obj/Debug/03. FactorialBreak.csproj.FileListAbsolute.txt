@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialBreak\bin\Debug\FactorialBreak.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialBreak\bin\Debug\FactorialBreak.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialBreak\obj\Debug\03. FactorialBreak.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialBreak\obj\Debug\FactorialBreak.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialBreak\obj\Debug\FactorialBreak.pdb

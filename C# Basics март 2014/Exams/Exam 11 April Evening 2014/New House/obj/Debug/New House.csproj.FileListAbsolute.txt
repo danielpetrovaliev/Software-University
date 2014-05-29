@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\New House\bin\Debug\New House.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\New House\bin\Debug\New House.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\New House\obj\Debug\New House.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\New House\obj\Debug\New House.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\New House\obj\Debug\New House.csprojResolveAssemblyReference.cache

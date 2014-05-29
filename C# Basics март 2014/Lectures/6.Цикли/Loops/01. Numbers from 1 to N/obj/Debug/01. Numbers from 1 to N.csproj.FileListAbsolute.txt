@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\01. Numbers from 1 to N\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\Loops\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\Loops\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb

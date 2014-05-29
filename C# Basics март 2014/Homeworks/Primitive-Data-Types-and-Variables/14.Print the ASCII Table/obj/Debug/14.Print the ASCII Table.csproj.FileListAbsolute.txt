@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.pdb

@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.Square Root\bin\Debug\8.Square Root.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.Square Root\bin\Debug\8.Square Root.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.Square Root\obj\Debug\8.Square Root.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.Square Root\obj\Debug\8.Square Root.pdb

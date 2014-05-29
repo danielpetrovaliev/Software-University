@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\07.Strings and Objects\bin\Debug\07.Strings and Objects.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\07.Strings and Objects\bin\Debug\07.Strings and Objects.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\07.Strings and Objects\obj\Debug\07.Strings and Objects.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\07.Strings and Objects\obj\Debug\07.Strings and Objects.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\07.Strings and Objects\obj\Debug\07.Strings and Objects.csprojResolveAssemblyReference.cache

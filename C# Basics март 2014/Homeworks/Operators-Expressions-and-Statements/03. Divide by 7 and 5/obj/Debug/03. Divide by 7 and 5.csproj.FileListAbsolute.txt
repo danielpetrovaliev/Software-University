@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03. Divide by 7 and 5\obj\Debug\03. Divide by 7 and 5.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.pdb

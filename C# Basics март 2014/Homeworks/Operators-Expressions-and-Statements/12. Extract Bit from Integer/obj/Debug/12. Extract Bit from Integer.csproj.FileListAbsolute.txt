@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

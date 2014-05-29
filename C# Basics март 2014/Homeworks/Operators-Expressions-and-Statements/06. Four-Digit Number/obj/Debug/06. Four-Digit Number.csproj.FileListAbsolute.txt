@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\06. Four-Digit Number\obj\Debug\06. Four-Digit Number.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.pdb

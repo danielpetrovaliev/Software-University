@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\08. Digit as Word\obj\Debug\08. Digit as Word.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.pdb

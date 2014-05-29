@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\04. Rectangles\bin\Debug\_04.Rectangles.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\_04.Rectangles.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\_04.Rectangles.pdb

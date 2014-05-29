@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\06.Boolean Variable\obj\Debug\06.Boolean Variable.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\06.Boolean Variable\obj\Debug\06.Boolean Variable.pdb

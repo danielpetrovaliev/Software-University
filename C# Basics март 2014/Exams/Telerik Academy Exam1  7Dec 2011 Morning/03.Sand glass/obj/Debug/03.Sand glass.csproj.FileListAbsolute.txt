@@ -1,0 +1,4 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  7Dec 2011 Morning\03.Sand glass\bin\Debug\03.Sand glass.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  7Dec 2011 Morning\03.Sand glass\bin\Debug\03.Sand glass.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  7Dec 2011 Morning\03.Sand glass\obj\Debug\03.Sand glass.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Telerik Academy Exam1  7Dec 2011 Morning\03.Sand glass\obj\Debug\03.Sand glass.pdb
