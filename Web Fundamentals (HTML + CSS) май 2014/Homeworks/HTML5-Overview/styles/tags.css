@@ -1,0 +1,19 @@
+.tech ul {
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    list-style:none;
+    list-style-position:outside;
+}
+.tech li{
+    display:inline-block;
+    text-align: center;
+    background-color: #cccccc;
+    color: #222222;
+    margin: 5px 0px 5px 0px;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    box-shadow: 2px 3px 5px #000000;
+    border: #969696 1px dashed;
+}
