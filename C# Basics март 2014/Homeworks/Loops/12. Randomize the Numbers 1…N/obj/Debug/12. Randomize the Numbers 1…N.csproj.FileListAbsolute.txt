@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Loops\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.pdb

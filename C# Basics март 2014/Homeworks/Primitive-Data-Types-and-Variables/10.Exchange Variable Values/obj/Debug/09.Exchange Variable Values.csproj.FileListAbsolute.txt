@@ -1,2 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\10.Exchange Variable Values\obj\Debug\10.Exchange Variable Values.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\10.Exchange Variable Values\obj\Debug\10.Exchange Variable Values.pdb

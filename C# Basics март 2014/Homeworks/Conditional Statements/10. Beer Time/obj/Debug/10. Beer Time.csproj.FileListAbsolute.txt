@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\10. Beer Time\bin\Debug\_10.Beer_Time.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\10. Beer Time\bin\Debug\_10.Beer_Time.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\10. Beer Time\obj\Debug\10. Beer Time.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\10. Beer Time\obj\Debug\_10.Beer_Time.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Conditional Statements\10. Beer Time\obj\Debug\_10.Beer_Time.pdb

@@ -1,5 +1,0 @@
-C:\Users\Daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\17.Play with the Debugger\obj\Debug\17.Play with the Debugger.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\17.Play with the Debugger\bin\Debug\17.Play with the Debugger.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\17.Play with the Debugger\bin\Debug\17.Play with the Debugger.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\17.Play with the Debugger\obj\Debug\17.Play with the Debugger.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\17.Play with the Debugger\obj\Debug\17.Play with the Debugger.pdb

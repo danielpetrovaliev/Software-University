@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\02. Least Majority Multiple\bin\Debug\_02.Least_Majority_Multiple.exe.config
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\02. Least Majority Multiple\bin\Debug\_02.Least_Majority_Multiple.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\02. Least Majority Multiple\bin\Debug\_02.Least_Majority_Multiple.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\02. Least Majority Multiple\obj\Debug\_02.Least_Majority_Multiple.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\02. Least Majority Multiple\obj\Debug\_02.Least_Majority_Multiple.pdb

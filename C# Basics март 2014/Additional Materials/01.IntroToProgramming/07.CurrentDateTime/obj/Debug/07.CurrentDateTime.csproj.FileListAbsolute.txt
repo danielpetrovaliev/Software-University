@@ -1,0 +1,5 @@
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\07.CurrentDateTime\bin\Debug\05.FirstLastName.exe.config
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\07.CurrentDateTime\bin\Debug\05.FirstLastName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\07.CurrentDateTime\bin\Debug\05.FirstLastName.pdb
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\07.CurrentDateTime\obj\Debug\05.FirstLastName.exe
+c:\users\kirov\documents\visual studio 2012\Projects\01.IntroToProgramming\07.CurrentDateTime\obj\Debug\05.FirstLastName.pdb

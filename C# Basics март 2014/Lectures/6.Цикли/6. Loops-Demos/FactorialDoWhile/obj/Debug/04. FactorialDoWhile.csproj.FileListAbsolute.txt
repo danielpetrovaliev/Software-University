@@ -1,5 +1,0 @@
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialDoWhile\bin\Debug\FactorialDoWhile.exe
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialDoWhile\bin\Debug\FactorialDoWhile.pdb
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialDoWhile\obj\Debug\04. FactorialDoWhile.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialDoWhile\obj\Debug\FactorialDoWhile.exe
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\FactorialDoWhile\obj\Debug\FactorialDoWhile.pdb

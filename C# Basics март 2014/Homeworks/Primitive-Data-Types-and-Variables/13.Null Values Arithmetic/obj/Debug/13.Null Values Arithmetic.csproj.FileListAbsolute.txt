@@ -1,1 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\13.Null Values Arithmetic\bin\Debug\13.Null Values Arithmetic.exe.config

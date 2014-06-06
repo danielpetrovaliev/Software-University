@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\bin\Debug\01. 2 4 8.exe.config
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\bin\Debug\01. 2 4 8.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\bin\Debug\01. 2 4 8.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\obj\Debug\01. 2 4 8.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\obj\Debug\01. 2 4 8.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TelerikAcademyExam1 6 December2013Evening\01. 2 4 8\obj\Debug\01. 2 4 8.pdb

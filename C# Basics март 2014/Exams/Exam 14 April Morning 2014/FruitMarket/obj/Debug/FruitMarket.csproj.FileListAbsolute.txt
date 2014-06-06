@@ -1,2 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\FruitMarket\bin\Debug\FruitMarket.exe.config
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache

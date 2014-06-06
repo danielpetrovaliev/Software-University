@@ -1,2 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\08.Quotes in Strings\obj\Debug\08.Quotes in Strings.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\08.Quotes in Strings\obj\Debug\08.Quotes in Strings.pdb

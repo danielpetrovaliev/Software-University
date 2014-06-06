@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Exam Schedule\bin\Debug\Exam Schedule.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Exam Schedule\bin\Debug\Exam Schedule.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Exam Schedule\obj\Debug\Exam Schedule.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Exam Schedule\obj\Debug\Exam Schedule.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Exam Schedule\obj\Debug\Exam Schedule.pdb

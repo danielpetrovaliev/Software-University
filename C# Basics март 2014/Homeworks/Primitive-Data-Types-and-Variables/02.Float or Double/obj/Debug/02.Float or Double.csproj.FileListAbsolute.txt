@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\02.Float or Double\obj\Debug\02.Float or Double.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\02.Float or Double\bin\Debug\02.Float or Double.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\02.Float or Double\bin\Debug\02.Float or Double.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\02.Float or Double\obj\Debug\02.Float or Double.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\02.Float or Double\obj\Debug\02.Float or Double.pdb

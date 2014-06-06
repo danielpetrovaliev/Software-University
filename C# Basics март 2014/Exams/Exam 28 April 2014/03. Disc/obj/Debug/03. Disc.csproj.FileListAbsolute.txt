@@ -1,5 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\03. Disc\bin\Debug\_03.Disc.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\03. Disc\bin\Debug\_03.Disc.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\03. Disc\obj\Debug\03. Disc.csprojResolveAssemblyReference.cache
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\03. Disc\obj\Debug\_03.Disc.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 28 April 2014\03. Disc\obj\Debug\_03.Disc.pdb

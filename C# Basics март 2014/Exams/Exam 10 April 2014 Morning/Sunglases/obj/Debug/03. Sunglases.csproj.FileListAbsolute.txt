@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Morning\Sunglases\obj\Debug\Sunglases.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Morning\Sunglases\obj\Debug\Sunglases.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Morning\Sunglases\bin\Debug\Sunglases.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Morning\Sunglases\bin\Debug\Sunglases.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Morning\Sunglases\obj\Debug\03. Sunglases.csprojResolveAssemblyReference.cache

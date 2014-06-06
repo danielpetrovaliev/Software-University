@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\10.Reformat CSharp Code\bin\Debug\10.Reformat CSharp Code.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\10.Reformat CSharp Code\bin\Debug\10.Reformat CSharp Code.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\10.Reformat CSharp Code\obj\Debug\10.Reformat CSharp Code.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\10.Reformat CSharp Code\obj\Debug\10.Reformat CSharp Code.pdb

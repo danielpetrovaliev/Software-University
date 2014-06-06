@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Console-Input-Output\08. Numbers from 1 to n\obj\Debug\08. Numbers from 1 to n.csprojResolveAssemblyReference.cache

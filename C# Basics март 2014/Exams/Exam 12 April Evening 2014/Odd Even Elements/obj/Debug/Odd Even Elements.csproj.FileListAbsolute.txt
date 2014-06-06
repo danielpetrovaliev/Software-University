@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Odd Even Elements\bin\Debug\Odd Even Elements.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Odd Even Elements\bin\Debug\Odd Even Elements.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Odd Even Elements\obj\Debug\Odd Even Elements.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Odd Even Elements\obj\Debug\Odd Even Elements.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 12 April Evening 2014\Odd Even Elements\obj\Debug\Odd Even Elements.csprojResolveAssemblyReference.cache

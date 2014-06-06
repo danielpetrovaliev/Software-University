@@ -1,1 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\03Comparing Floats\bin\Debug\03Comparing Floats.exe.config

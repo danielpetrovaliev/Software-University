@@ -1,6 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\bin\Debug\_03.Trapezoid.exe.config
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\bin\Debug\_03.Trapezoid.exe
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\bin\Debug\_03.Trapezoid.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\obj\Debug\03. Trapezoid.csprojResolveAssemblyReference.cache
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\obj\Debug\_03.Trapezoid.exe
-c:\users\daniel\documents\visual studio 2013\Projects\CSharp Fundamentals 2011 2012 Part 1\03. Trapezoid\obj\Debug\_03.Trapezoid.pdb

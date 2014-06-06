@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\01.Work House\bin\Debug\01.Work House.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\01.Work House\bin\Debug\01.Work House.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\01.Work House\obj\Debug\01.Work House.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\01.Work House\obj\Debug\01.Work House.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\01.Work House\obj\Debug\01.Work House.pdb

@@ -1,4 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\Wine Glass\bin\Debug\Wine Glass.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\Wine Glass\bin\Debug\Wine Glass.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\Wine Glass\obj\Debug\Wine Glass.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 14 April Morning 2014\Wine Glass\obj\Debug\Wine Glass.pdb

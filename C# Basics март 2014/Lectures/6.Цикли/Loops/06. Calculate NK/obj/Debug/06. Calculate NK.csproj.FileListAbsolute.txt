@@ -1,5 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Loops\06. Calculate NK\bin\Debug\_06.Calculate_NK.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Loops\06. Calculate NK\bin\Debug\_06.Calculate_NK.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\Loops\06. Calculate NK\obj\Debug\06. Calculate NK.csprojResolveAssemblyReference.cache
-c:\users\daniel\documents\visual studio 2013\Projects\Loops\06. Calculate NK\obj\Debug\_06.Calculate_NK.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Loops\06. Calculate NK\obj\Debug\_06.Calculate_NK.pdb

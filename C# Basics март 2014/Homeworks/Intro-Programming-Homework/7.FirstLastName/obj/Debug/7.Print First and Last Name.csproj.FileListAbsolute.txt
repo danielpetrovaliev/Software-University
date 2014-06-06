@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\7.FirstLastName\bin\Debug\7.FirstLastName.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\7.FirstLastName\bin\Debug\7.FirstLastName.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\7.FirstLastName\obj\Debug\7.FirstLastName.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\7.FirstLastName\obj\Debug\7.FirstLastName.pdb

@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\03. Eclipse\bin\Debug\_03.Eclipse.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\03. Eclipse\bin\Debug\_03.Eclipse.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\03. Eclipse\obj\Debug\_03.Eclipse.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\03. Eclipse\obj\Debug\_03.Eclipse.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 10 April 2014 Evening\03. Eclipse\obj\Debug\03. Eclipse.csprojResolveAssemblyReference.cache

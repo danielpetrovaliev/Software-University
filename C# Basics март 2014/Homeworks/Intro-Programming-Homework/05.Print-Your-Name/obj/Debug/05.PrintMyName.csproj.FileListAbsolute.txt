@@ -1,2 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\05.Print-Your-Name\obj\Debug\Print-Your-Name.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\05.Print-Your-Name\obj\Debug\Print-Your-Name.pdb

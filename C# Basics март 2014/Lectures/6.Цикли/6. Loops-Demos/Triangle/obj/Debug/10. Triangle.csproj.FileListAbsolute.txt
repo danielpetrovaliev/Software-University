@@ -1,5 +1,0 @@
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Triangle\bin\Debug\Triangle.exe
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Triangle\bin\Debug\Triangle.pdb
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Triangle\obj\Debug\10. Triangle.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Triangle\obj\Debug\Triangle.exe
-C:\Users\Daniel\Desktop\Soft_Uni\Lekcii\6.Цикли\6. Loops-Demos\Triangle\obj\Debug\Triangle.pdb

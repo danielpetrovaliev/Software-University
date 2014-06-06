@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb

@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\02. Sum Of Elements\bin\Debug\_02.Sum_Of_Elements.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\02. Sum Of Elements\bin\Debug\_02.Sum_Of_Elements.pdb
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\02. Sum Of Elements\obj\Debug\02. Sum Of Elements.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\02. Sum Of Elements\obj\Debug\_02.Sum_Of_Elements.exe
-C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Exam 11 April Morning 2014\02. Sum Of Elements\obj\Debug\_02.Sum_Of_Elements.pdb

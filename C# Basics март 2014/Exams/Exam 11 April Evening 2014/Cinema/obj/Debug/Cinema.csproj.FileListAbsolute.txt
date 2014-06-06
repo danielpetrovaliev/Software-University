@@ -1,5 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\Cinema\bin\Debug\Cinema.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\Cinema\bin\Debug\Cinema.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\Cinema\obj\Debug\Cinema.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Exam 11 April Evening 2014\Cinema\obj\Debug\Cinema.pdb

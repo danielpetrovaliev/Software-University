@@ -1,4 +1,0 @@
-c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.PrintNumbers\bin\Debug\6.PrintNumbers.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.PrintNumbers\bin\Debug\6.PrintNumbers.pdb
-c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.PrintNumbers\obj\Debug\6.PrintNumbers.exe
-c:\users\daniel\documents\visual studio 2013\Projects\Intro-Programming-Homework\6.PrintNumbers\obj\Debug\6.PrintNumbers.pdb
