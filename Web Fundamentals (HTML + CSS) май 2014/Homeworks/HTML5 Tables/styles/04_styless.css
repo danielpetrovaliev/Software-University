@@ -17,6 +17,9 @@ table{
     background-color: #234465;
     width: 100%;
     padding-right: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
 
 td{
@@ -49,9 +52,14 @@ table tr td form input:first-child {
 }
 
 .Courses{
+
     font-weight: bold;
     color:#3BA0DB;
     margin-left: 0px;
+}
+
+.Courses:hover{
+    color: #ffffff;
 }
 
 /*navigation*/
