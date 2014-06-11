@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles/07_styless.css">
+</head>
+<body>
+    <form name="Calculator">
+        <table>
+            <tr>
+                <td colspan="4">
+                    <input type="text" name="NumBox">
+                </td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  1  " onclick="document.Calculator.NumBox.value += '1'"/></td>
+                <td><input type="button" value="  2  " onclick="document.Calculator.NumBox.value += '2'"/></td>
+                <td><input type="button" value="  3  " onclick="document.Calculator.NumBox.value += '3'"/></td>
+                <td><input type="button" value="  +  " onclick="document.Calculator.NumBox.value += '+'"/></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  4  " onclick="document.Calculator.NumBox.value += '4'"/></td>
+                <td><input type="button" value="  5  " onclick="document.Calculator.NumBox.value += '5'"/></td>
+                <td><input type="button" value="  6  " onclick="document.Calculator.NumBox.value += '6'"/></td>
+                <td><input type="button" value="  -  " onclick="document.Calculator.NumBox.value += '-'"/></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  7  " onclick="document.Calculator.NumBox.value += '7'"/></td>
+                <td><input type="button" value="  8  " onclick="document.Calculator.NumBox.value += '8'"/></td>
+                <td><input type="button" value="  9  " onclick="document.Calculator.NumBox.value += '9'"/></td>
+                <td><input type="button" value="  *  " onclick="document.Calculator.NumBox.value += '*'"/></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  C  " onclick="document.Calculator.NumBox.value = ''"/></td>
+                <td><input type="button" value="  0  " onclick="document.Calculator.NumBox.value += '0'"/></td>
+                <td><input type="button" value="  =  " onclick="document.Calculator.NumBox.value = eval(Calculator.NumBox.value)"/></td>
+                <td><input type="button" value="  /  " onclick="document.Calculator.NumBox.value += '/'"/></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
