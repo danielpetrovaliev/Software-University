@@ -1,0 +1,95 @@
+body{
+    color: #666666;
+    font-family: Calibri;
+}
+
+div{
+    margin: 0 auto;
+    height: 500px;
+    background-color: #EEEEEE;
+    width: 950px;
+    padding-left: 15px;
+
+}
+
+h1, h2{
+    color: #234465;
+}
+
+#registerForm{
+    margin: 20px;
+    display: inline-block;
+    width: 380px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 320px;
+
+}
+
+#loginForm{
+    padding-left: 15px;
+    display: inline-block;
+    color: white;
+    background-color: #234465;
+    margin: 20px;
+    width: 380px;
+    height: 320px;
+    vertical-align: bottom;
+}
+
+#registerForm input{
+    width: 360px;
+    height: 35px;
+    margin-bottom: 12px;
+}
+
+#loginForm input{
+    width: 360px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+div #registerForm input[type=submit]{
+    font-size: 16px;
+    background-color: #EEEEEE;
+    height: 37px;
+    width: 150px;
+    float: right;
+    color: #234465;
+    border: 2px solid #234465;
+    margin-right: 16px;
+}
+
+div #registerForm input[type=submit]:hover{
+    color: white;
+    background-color: #234465;
+}
+
+div #loginForm input[type=submit]{
+    font-size: 16px;
+    background-color: #234465;
+    height: 40px;
+    width: 140px;
+    float: right;
+    color: white;
+    border: 2px solid #FF9C00;
+    margin-right: 16px;
+}
+
+div #loginForm input[type=submit]:hover{
+    background-color: #FF9C00;
+}
+
+div #loginForm a{
+    margin-top: 5px;
+    padding-right: 16px;
+    padding-left: 80px;
+    float: right;
+    color: white;
+}
+
+#loginForm input[type=checkbox]{
+    width: 20px;
+    float: left;
+    display: inline;
+}

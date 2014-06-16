@@ -1,0 +1,88 @@
+div{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: 'Arial', sans-serif; color: #2C425A;
+}
+
+.container{
+    width: 600px;
+    float: left;
+}
+
+a p{
+    padding: 0;
+    font-size: 16px;
+    margin: 0 0 0 10px;
+    height: 34px;
+    float: left;
+}
+
+a{
+    border-radius: 8px;
+    width: 190px;
+    float: left;
+    border: 1px solid #e7f4fc;
+    margin: 0 7px 7px 0;
+    color: #2E425A;
+    text-decoration: none;
+}
+
+a .price {
+    background-color: #2c425a;
+    border-top-left-radius: 5px;
+    float: right;
+    height: 30px;
+    font-size: 15px;
+    color: #fff;
+    padding: 0 10px;
+    line-height: 32px;
+}
+
+a h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0 0 10px;
+}
+
+h2{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+a img{
+    margin: 10px 0 20px 15px;
+    float: left;
+}
+
+.filter{
+    background-color: #F7FCFF;
+    float: left;
+    width: 200px;
+    border: 1px solid #e7f4fc;
+}
+
+.filter p{
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.filter .min{
+    font-size: 14px;
+    float: left;
+}
+
+.filter .max{
+    font-size: 14px;
+    float: right;
+}
+
+.filter input{
+    width: 98%;
+}

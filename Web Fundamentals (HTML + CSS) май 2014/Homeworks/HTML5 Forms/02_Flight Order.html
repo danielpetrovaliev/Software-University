@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"
+      xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>FLIGHT ORDER</title>
+    <link href="styles/02_styles.css" rel="stylesheet">
+</head>
+<body>
+    <div id="main">
+        <form>
+            <h1>FLIGHT ORDER</h1>
+
+            <div id="leftDiv">
+                From
+                <select id="marginBottom">
+                    <option> enter a city</option>
+                    <option> Sofia</option>
+                    <option> Plovdiv</option>
+                    <option> Varna</option>
+                    <option> Burgas</option>
+                    <option> Blagoevgrad</option>
+                </select>
+                <p>Departure Date</p>
+                <input type="date" value="09.06.2014">
+                <p>Return Date</p>
+                <input type="date"  value="13.06.2014">
+                </br>
+                <div>
+                    <div class="numBox">12+</div>
+                    <div class="numBox">2-12</div>
+                    <div class="numBox">0-2</div>
+                    <div class="numBox"><input min="12" value="0" type="number"></div>
+                    <div class="numBox"><input type="number" min="2" max="12" value="0"></div>
+                    <div class="numBox"><input type="number" min="0" max="2" value="0"></div>
+                </div>
+            </div>
+
+            <div id="rightDiv">
+                To
+                <select>
+                    <option> enter a city</option>
+                    <option> Sofia</option>
+                    <option> Plovdiv</option>
+                    <option> Varna</option>
+                    <option> Burgas</option>
+                    <option> Blagoevgrad</option>
+                </select>
+                <p>
+                    <input type="checkbox" id="preferDirects">
+                    <label for="preferDirects">Prefer directs</label>
+                </p>
+                Time Interval
+                </br>
+                <input type="time" value="00:20">
+                <input type="time" value="05:00">
+                </br>
+                Time Interval
+                </br>
+                <input type="time" value="16:00">
+                <input type="time" value="22:00">
+                </br>
+                Choose class
+                </br>
+                <select>
+                    <option>Economy</option>
+                    <option>Business</option>
+                    <option>First</option>
+                </select>
+            </div>
+            <input type="submit" value="Search">
+        </form>
+    </div>
+</body>
+</html>

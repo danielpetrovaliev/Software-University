@@ -1,0 +1,22 @@
+div{
+    margin: 0 auto;
+    width: 500px;
+    height: 1000px;
+}
+
+input[type=text]{
+    height: 20px;
+}
+label{
+    vertical-align: bottom;
+}
+
+#button{
+    position: absolute;
+    vertical-align: middle;
+}
+
+#button:active{
+	position:fixed;
+	top:207px;
+}

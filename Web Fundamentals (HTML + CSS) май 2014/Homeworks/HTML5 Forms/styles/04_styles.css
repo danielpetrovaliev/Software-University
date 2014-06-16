@@ -1,0 +1,124 @@
+body{
+    font-family: Tahoma;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+#main{
+    background-color: #3B5997;
+    margin: 0 auto;
+    width: 885px;
+    height: 720px;
+    padding: 15px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+h3{
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#copyright{
+    font-size: 13px;
+}
+
+div div{
+    display: inline-block;
+}
+
+#left{
+    width: 350px;
+    height: 400px;
+}
+
+#right{
+    margin-left: 30px;
+    width: 500px;
+    height: 400px;
+}
+
+fieldset{
+    border: groove 1px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+fieldset legend{
+    text-align: center;
+}
+
+input[type=text],input[type=password],input[type=url]{
+  height: 25px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+input[type=color]{
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    padding: 0;
+}
+
+input[type=datetime-local]{
+    height: 25px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    border-radius: 5px;
+}
+
+select{
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+
+.smallBox{
+    width: 75px;
+}
+
+#leftFiledset{
+    padding-bottom: 55px;
+}
+
+textarea{
+    border-radius: 8px;
+}
+
+#clearButton{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    color: #3B5997;
+    width: 350px;
+    height: 55px;
+    background-color: #DDDDDD;
+    font-size: 20px;
+}
+
+#registerButton{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    color: #3B5997;
+    width: 500px;
+    height: 55px;
+    background-color: #DDDDDD;
+    font-size: 20px;
+}

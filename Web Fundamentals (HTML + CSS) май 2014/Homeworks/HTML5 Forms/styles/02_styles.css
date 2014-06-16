@@ -1,0 +1,80 @@
+
+#main{
+    font-style: italic;
+    margin: 0 auto;
+    background-color: #FFC0CB;
+    width: 800px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+#leftDiv{
+    width: 390px;
+    height: 250px;
+    float: left;
+    display: inline-block;
+}
+
+#rightDiv{
+    width: 390px;
+    height: 250px;
+    float: right;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+select{
+    font-size: 20px;
+    width: 380px;
+    height: 28px;
+}
+
+#marginBottom{
+    margin-bottom: 30px;
+}
+
+div#leftDiv input[type=date]{
+    width: 380px;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+input[type=number]{
+    width: 120px;
+    height: 23px;
+    font-size: 20px;
+}
+
+input[type=submit]{
+    width: 390px;
+    height: 40px;
+    margin-top: 10px;
+    float: right;
+    font-size: 20px;
+}
+input[type=time]{
+    font-size: 20px;
+}
+
+div #leftDiv p{
+    margin: 0;
+    padding: 0;
+    width: 10;
+}
+
+.numBox{
+    margin-right: 10px;
+    float: left;
+    width: 120px;
+}
+
+div#rightDiv p{
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
