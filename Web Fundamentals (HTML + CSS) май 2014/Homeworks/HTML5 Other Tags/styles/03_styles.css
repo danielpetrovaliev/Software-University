@@ -1,0 +1,41 @@
+body{
+    font-family: 'Arial', sans-serif;
+}
+
+div{
+    display: inline-block;
+}
+#container{
+    background-color: black;
+    width: 650px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+div#container h1{
+    text-align: center;
+    color: yellow;
+}
+
+iframe{
+    border-color: yellow;
+    width: 270px;
+    height: 190px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+#iframe{
+    width:270px;
+    height:190px;
+    margin-right: 20px;
+}
+#iframe-links{
+    position: absolute;
+}

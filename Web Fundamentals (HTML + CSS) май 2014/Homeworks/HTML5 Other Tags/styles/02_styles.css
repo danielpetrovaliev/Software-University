@@ -1,0 +1,58 @@
+html, body, div, img, p, a, header, h1, figure, figcaption{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+div#image{
+    width: 215px;
+}
+
+div#audio{
+    width: 310px;
+}
+
+.audio{
+    width: 310px;
+}
+
+div#video{
+    width: 522px;
+}
+
+#container{
+    background-color: #FFC0CB;
+    margin: 50px auto;
+    width: 1100px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+div#container div{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+div#container div :last-child{
+    margin-right: 0;
+}
+
+meter{
+    width: 155px;
+}
+
+div#container div div#audio-container{
+    height: 100px;
+    background-color: black;
+    padding: 30px 5px 0 5px;
+    margin-bottom: 5px;
+    margin-right: 0;
+}
+
