@@ -1,0 +1,105 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+div#head{
+    width: 500px;
+    height: 500px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background-color: #FFFF00;
+    position: absolute;
+    margin: 0 auto;
+}
+
+div#head div#left-eye{
+    width: 90px;
+    height: 90px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+}
+
+
+div#head div#left-eye div#left-pupil{
+    width: 25px;
+    height: 25px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background: black;
+    position: absolute;
+    top: 49px;
+    left: 46px;
+}
+
+div#head div#right-eye{
+    width: 90px;
+    height: 90px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    left: 330px;
+
+}
+
+div#head div#right-eye div#right-pupil {
+    width: 25px;
+    height: 25px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background: black;
+    position: absolute;
+    top: 3px;
+    left: -5px;
+}
+
+div#head div#nose{
+    width: 70px;
+    height: 70px;
+    border: 2px black solid;
+    border-radius: 50%;
+    background: red;
+    position: absolute;
+    top: 200px;
+    left: 210px;
+}
+
+div#head div#mouth{
+    width: 270px;
+    height: 90px;
+    border: 2px black solid;
+    border-radius: 50px;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    left: 112px;
+}
+
+div#head div#mouth div#left-teeth{
+    width: 40px;
+    height: 40px;
+    border: 2px black solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+    position: absolute;
+    left: 91px;
+    top: -2px;
+}
+div#head div#mouth div#right-teeth{
+    width: 40px;
+    height: 40px;
+    border: 2px black solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+    position: absolute;
+    right: 91px;
+    top: -2px;
+}

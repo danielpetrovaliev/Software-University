@@ -1,0 +1,149 @@
+html, body, ul, li{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "tahoma", sans-serif;
+    background: url("../images/colorful_dots_on_black.png");
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+aside, section {
+    display: inline-block;
+    vertical-align: top;
+}
+ /* Header */
+body>header{
+    text-align: center;
+    background: -webkit-linear-gradient(left, #FF0000 33%, #008000 33%, #008000 67%, #0000FF 67%);
+    background: -o-linear-gradient(right, #FF0000 33%, #008000 33%, #008000 67%, #0000FF 67%);
+    background: -moz-linear-gradient(right, #FF0000 33%, #008000 33%, #008000 67%, #0000FF 67%);
+    background: linear-gradient(to right, #FF0000 33%, #008000 33%, #008000 67%, #0000FF 67%);
+    color: yellow;
+    width: 100%;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+/* Aside */
+body>aside{
+    background: rgba(255, 255, 255, 0.9);
+    margin-left: 10px;
+    width: 18%;
+    border-radius: 15px;
+    padding: 10px;
+    list-style: none;
+}
+
+aside>nav header{
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+body>aside>nav>ul{
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+aside>nav>ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+aside>nav>ul li a:visited{
+    color: #808080;
+}
+
+
+
+body>aside>nav>ul li:before{
+    content: url("../images/tick.png");
+    margin-right: 5px;
+}
+
+/* Section */
+section {
+    width: 75%;
+}
+
+section article{
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+article header{
+    font-size: 1.5em;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+article footer a{
+    color: gray;
+    font-style: italic;
+}
+
+article div:first-letter{
+    font-size: 4em;
+}
+
+article div:first-line{
+    font-style: italic;
+}
+
+span[lang="La"]{
+    font-style: italic;
+    color: blue;
+}
+
+span[lang="La"]:before{
+    content: '" ' ;
+}
+
+span[lang="La"]:after{
+    content:  ' "';
+}
+
+#webColors{
+    background-color: red;
+    color: white;
+}
+
+#webSafeColors{
+    background-color: #FFA500;
+}
+
+#RGB{
+    background-color: yellow;
+}
+
+#RGBA{
+    background-color: #008000;
+    color: white;
+}
+
+#\#HSLHSV{
+    background-color: blue;
+    color: white;
+}
+
+#\#lorem{
+    background-color: purple;
+    color: white;
+}
+
+
+
+
+
