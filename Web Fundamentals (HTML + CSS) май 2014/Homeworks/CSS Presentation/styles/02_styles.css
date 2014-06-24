@@ -1,0 +1,81 @@
+@font-face {
+    font-family: Animated;
+    src: url(../fonts/Animated.ttf);
+}
+
+body{
+    background-color:rgba(171, 171, 171, 0);
+    background: url("../images/HawaiiBackground.png"), -moz-radial-gradient(18% 21%, circle closest-corner, rgba(171, 171, 171, 0), #0065DB 60em);
+    background: url("../images/HawaiiBackground.png"), -webkit-radial-gradient(18% 21%, circle closest-corner, rgba(171, 171, 171, 0), #0065DB 60em);
+    background: url("../images/HawaiiBackground.png"), -o-radial-gradient(18% 21%, circle closest-corner, rgba(171, 171, 171, 0), #0065DB 60em);
+    background: url("../images/HawaiiBackground.png"), -ms-radial-gradient(18% 21%, circle closest-corner, rgba(171, 171, 171, 0), #0065DB 60em);
+    background: url("../images/HawaiiBackground.png"), radial-gradient(18% 21%, circle closest-corner, rgba(171, 171, 171, 0), #0065DB 60em);
+    -webkit-background-size: 900px 600px;
+    background-repeat: no-repeat;
+}
+
+div#vlado-g-hula {
+    background: url("../images/VladoGHula.png") no-repeat;
+    position: absolute;
+    left: 38px;
+    top: 222px;
+    width: 265px;
+    height: 350px;
+}
+
+div#petya-hula{
+    background: url("../images/PetiaHula.png") no-repeat;
+    position: absolute;
+    left: 177px;
+    top: 190px;
+    width: 238px;
+    height: 375px;
+}
+
+div#tedi-hula{
+    background: url("../images/TediHula.png") no-repeat;
+    position: absolute;
+    left: 260px;
+    top: 360px;
+    width: 156px;
+    height: 220px;
+}
+
+div#nakov-hula {
+    background: url("../images/NakovHula.png") no-repeat;
+    position: absolute;
+    top: 155px;
+    left: 410px;
+    width: 215px;
+    height: 400px;
+}
+
+div#alex-hula{
+    background: url("../images/AlexHula.png") no-repeat;
+    position: absolute;
+    top: 200px;
+    left: 490px;
+    width: 238px;
+    height: 375px;
+}
+
+div#vlado-k-hula{
+    background: url("../images/VladoKHula.png") no-repeat;
+    position: absolute;
+    top: 236px;
+    left: 670px;
+    width: 213px;
+    height: 350px;
+}
+
+body div#title h1{
+    font-family: Animated;
+    color: #FDBC21;
+    font-size: 2.8em;
+    margin-top: 10px;
+}
+
+body div#title{
+    position: absolute;
+    left: 470px;
+}

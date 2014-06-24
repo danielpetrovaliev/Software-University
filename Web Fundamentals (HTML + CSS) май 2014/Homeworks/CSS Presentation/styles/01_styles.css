@@ -1,0 +1,117 @@
+body, div, form, input{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "tahoma", sans-serif;
+}
+
+div#border-box{
+    width: 800px;
+    height: 330px;
+    border-top: 8px dotted yellow;
+    border-left:  8px dashed red;
+    border-bottom: 8px double blue;
+    border-right:  8px solid green;
+    box-shadow:  25px 20px 5px #888;
+}
+
+div#border-box div#header{
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    padding-top: 20px;
+    text-shadow: 10px 7px 13px #888;
+}
+
+div#border-box div#content{
+    text-align: center;
+    width: 90%;
+    margin: 40px auto;
+    height: 120px;
+    border-radius: 60px;
+    box-shadow:
+    0 0 0 2px #FF0000,
+    0 0 0 3px #ffff00,
+    0 0 0 5px #008000,
+    0 0 0 7px #4343ff;
+}
+
+div#border-box div#content h2{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: normal;;
+}
+
+div#content form input[type=text]{
+    text-align: center;
+    height: 20px;
+    background-color: orange;
+    border-color: orange;
+    font-size: 18px;
+}
+
+.ballon:before{
+    content: " ";
+    position: absolute;
+    border: 4px dashed white;
+    border-radius: 50%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#small{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -124px;
+    left: 572px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+}
+
+#medium{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -204px;
+    left: 689px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+}
+
+#cool-ballon{
+    position: relative;
+    width: 140px;
+    height: 65px;
+    border-radius: 70px;
+    background: rgba(104,104,104,0.7);
+    top: -330px;
+    left: 752px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+#cool-ballon:before{
+    content: " ";
+    position: absolute;
+    border: 4px dashed white;
+    border-radius: 70px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
