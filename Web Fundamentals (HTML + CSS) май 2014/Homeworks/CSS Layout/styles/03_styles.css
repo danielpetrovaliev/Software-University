@@ -1,0 +1,107 @@
+body{
+    font-family: "tahoma", sans-serif;
+    background-color: #EEEEEE;
+    font-size: 14px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 76%;
+}
+
+div.section-title h2{
+    font-weight: normal;
+    color: #234465;
+}
+
+section{
+    margin: 20px;
+    display: block;
+}
+
+section article{
+    padding: 0 40px;
+    margin-right: 20px;
+    background-color: white;
+    width: 281px;
+    height: 444px;
+    text-align: left;
+    float: left;
+    box-shadow: 1px 0px 6px gray;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+section article h5{
+    font-size: 15px;
+    color: #234465;
+}
+
+article div.date{
+    float: right;
+    display: block;
+
+}
+
+article div.pull-left {
+    color: gray;
+    display: block;
+    height: 34px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+    height: 0;
+}
+
+div.image{
+    text-align: center;
+    width: 280px;
+    margin-bottom: 20px;
+}
+
+div.image img{
+    width: 280px;
+}
+
+div.tags{
+    color: grey;
+    font-size: 13px;
+}
+
+div.tags span.tag-bold{
+    font-weight: bold;
+    color: gray;
+}
+
+section ul.paging-bar{
+    padding: 0;
+    margin: 0;
+    float: none;
+    list-style: none;
+}
+
+section ul.paging-bar li{
+    display: inline;
+    padding: 5px 10px;
+    background-color: #4CA0DB;
+    border: 1px solid white;
+    position: relative;
+    list-style: none;
+}
+
+section ul.paging-bar li:hover{
+    border: 1px solid #234465;
+}
+
+section ul.paging-bar li:active{
+    background-color: #FF9C00;
+}
+
+section ul.paging-bar li a{
+    color: white;
+    text-decoration: none;
+}

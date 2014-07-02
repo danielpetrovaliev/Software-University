@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', Tahoma, sans-serif;
+    background-color: #eee;
+    font-size: 13px;
+}
+
+.clearfix{
+
+}
+
+/* Header */
+
+header{
+    background-color: #234465;
+}
+
+header.header-wrapper{
+    padding-top: 20px;
+    width: 100%;
+    height: 90px;
+}
+
+header div.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+}
+
+div.wrapper a.softuni-logo{
+    position: relative;
+    float: left;
+    background: url("../images/softuni-logo.png") no-repeat;
+    width: 255px;
+    height: 65px;
+}
+
+div.navbar{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+}
+
+div.navbar div.beta{
+    color: white;
+    font-size: 11px;
+    left: 228px;
+    top: 5px;
+    position: absolute;
+}
+
+ul.nav-float{
+    padding-top: 52px;
+    float: right;
+    display: inline;
+    margin: 0 !important;
+}
+
+ul.nav-float > li{
+    display: inline;
+    padding: 8px;
+    border-radius: 5px;
+    position: relative;
+}
+
+ul.nav-float li>a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+div.navbar nav ul{
+    list-style: none;
+}
+
+ul.dropdown{
+    position: absolute;
+    width: 350px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: left;
+    background-color: #234465;
+    display: none;
+    padding: 0;
+    margin-top: 8px;
+    z-index: 1;
+}
+
+ul.nav-float li:hover{
+    background-color: #4CA0DB;
+}
+
+ul.dropdown li{
+    display: block;
+    padding: 10px 0 10px 15px;
+    border-bottom: 1px solid gray;
+}
+
+ul.dropdown li:last-child{
+    border: none;
+}
+
+ul.dropdown li a{
+    font-size: 12px;
+    font-weight: normal;
+}
+nav ul.nav-float li.dropdown-hover-open:hover ul.dropdown{
+    display: block;
+}
+
+nav ul.nav-float li.dropdown-hover-open:hover ul.dropdown li:hover{
+    background-color: #FF9C00;
+    border-radius: 0;
+}
+
+nav ul.nav-float li.dropdown-hover-open:hover ul.dropdown li:last-child:hover{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* Login and Search */
+
+nav ul.nav-float li.login-search{
+    position: absolute;
+    float: right;
+    top: 0;
+    right: 0;
+    padding: 0;
+    margin-right: 5px;
+    width: 34%;
+}
+
+ul.nav-float li.login-search:hover{
+    background: transparent;
+}
+
+div.search-field{
+    float: right;
+}
+
+div.search-field input[type=text]{
+    height: 32px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding: 3px 3px 3px 10px;
+    outline: none;
+    box-sizing: border-box;
+    vertical-align: top;
+    border: none;
+    float: right;
+}
+button.search-button{
+    left: -6px;
+    position: relative;
+    width: 32px;
+    height: 32px;
+    vertical-align: top;
+    background: white;
+    border: 0;
+    border-left: 1px solid #d5d5d5;
+    border-collapse: collapse;
+    margin: 0;
+    background-image: url(../images/magn-glass-icon17.png);
+    background-position: 7px;
+    background-repeat: no-repeat;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    float: right;
+}
+
+
+div.user-information{
+    float: right;
+}
+
+div.user{
+    float: right;
+}
+
+.notification{
+    content: url("../images/bell.PNG");
+}
+
+div.user ul.dropdown-hover-open>li{
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+div.user>ul.dropdown-hover-open>li:hover{
+    background-color: #4CA0DB;
+    text-decoration: underline;
+}
+
+ul.dropdown-hover-open:hover ul.dropdown{
+    display: block;
+
+}
+
+ul.dropdown-hover-open:hover ul.dropdown li a{
+    color: white;
+    width: 100%;
+    height: 100%;
+}
+
+ul.dropdown-hover-open{
+    padding: 0;
+}
+
+ul.dropdown-hover-open:hover ul.dropdown li:hover {
+    background-color: #FF9C00;
+    border-radius: 0;
+}
+
+ul.dropdown-hover-open:hover ul.dropdown li:last-child:hover{
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+ul.dropdown-hover-open:hover ul.dropdown{
+    width: 150px;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
