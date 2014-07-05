@@ -1,0 +1,245 @@
+body{
+    font-family: "Tahoma", sans-serif;
+    background: url("../images/background-flowers.jpg") repeat;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin: 0;
+}
+
+div#wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+div#wrapper>header{
+    width: 100%;
+    background: rgba(255,232,234,0.8);
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+div#wrapper>header h1{
+    margin-top: 0;
+}
+
+div#wrapper>header h1 span{
+    vertical-align: top;
+    float: right;
+    font-size: 42px;
+}
+
+div#wrapper>header h1 img{
+    width: 250px;
+
+}
+
+div#wrapper>header h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+header>nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+
+header>nav ul li{
+    display: inline-block;
+    padding: 4px 0;
+    border: 1px solid black;
+    background-color: #EB2A7B;
+    width: 137px;
+    line-height: 30px;
+    text-align: center;
+    height: 30px;
+}
+
+header>nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+header:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+/* Asides bars */
+
+aside{
+    width: 20%;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    background: rgba(255,232,234,0.8);
+}
+
+
+aside ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+aside ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+aside.left{
+    float: left;
+}
+
+aside.left ul li{
+
+    vertical-align: middle;
+}
+
+
+aside.right{
+    float: right;
+}
+
+/* Section */
+
+section{
+    float: left;
+    border: 2px solid black;
+    background-color: rgba(255,232,234,0.8);
+    padding: 10px;
+    width: 57%;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    display: inline-flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+
+}
+
+section:after{
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+section div img{;
+    width: 125px;
+}
+
+/* Footer */
+
+
+footer{
+    width: 100%;
+    display: block;
+    border: 2px black solid;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 15px;
+    background-color: rgba(255,232,234,0.8);
+}
+
+footer h2 a{
+    color: black;
+}
+
+
+
+
+@media all and (max-width: 960px){
+    div#wrapper{
+        width: 100%;
+        margin: 0;
+    }
+}
+
+@media all and (max-width: 780px) {
+
+    div#wrapper{
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    section{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+        flex: 2 0px;
+        order: 1;
+    }
+
+    aside{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #wrapper aside.left {
+        order: 2;
+    }
+
+    #wrapper aside.right {
+        order: 3;
+        margin-bottom: 5px;
+    }
+
+    #wrapper footer {
+        order: 4;
+    }
+
+    body #wrapper > * {
+        padding: 10px;
+        flex: 1 100%;
+    }
+}
+
+@media all and (max-width: 640px){
+     div#wrapper>header>h1{
+        text-align: center;
+    }
+
+    div#wrapper>header{
+        text-align: center;
+    }
+
+    header h1 a span{
+        display: block;
+        width: 100%;
+    }
+
+    div#wrapper>header>nav:before{
+        content: ".";
+        display: block;
+        clear: both;
+        visibility: hidden;
+        line-height: 0;
+        height: 0;
+    }
+
+    div#wrapper>header>nav ul{
+        float: none;
+        margin-top: 10px;
+    }
+
+    div#wrapper>header>nav ul li{
+        display: block;
+        width: 100%;
+    }
+
+}

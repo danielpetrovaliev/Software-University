@@ -1,0 +1,19 @@
+div.row{
+    margin-top: 20px;
+}
+
+div.list-group{
+    margin-left: 60px;
+}
+
+div.col-sm-12{
+    border-top: 1px solid gainsboro;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+@media all and (max-width: 767px) {
+    div.list-group{
+        margin: 0;
+    }
+}
