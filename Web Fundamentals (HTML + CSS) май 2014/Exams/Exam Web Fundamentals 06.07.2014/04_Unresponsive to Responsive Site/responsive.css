@@ -1,0 +1,47 @@
+/* Add here your responsive CSS */
+
+@media all and (max-width: 780px) {
+
+    header.mainHeader nav ul{
+        padding: 0;
+    }
+
+    header.mainHeader nav ul li{
+        display: block;
+        width: 100%;
+    }
+    header.mainHeader nav{
+        height: 160px;
+        box-sizing: border-box;
+    }
+
+    .mainHeader img {
+        width: 100%;
+        height: auto;
+        margin: 3% 0;
+    }
+
+    .mainHeader nav a:link, .mainHeader nav a:visited {
+        color: #fff;
+        display: inline-block;
+        height: 30px;
+        padding: 5px 0;
+        text-decoration: none;
+        width: 100%;
+    }
+
+    div.content{
+        width: 100%;
+    }
+
+    aside.top-sidebar{
+        margin-top: 2%;
+    }
+
+    aside.top-sidebar, aside.middle-sidebar, aside.bottom-sidebar{
+        width: 100%;
+        margin-left: 0;
+        box-sizing: border-box;
+    }
+
+}

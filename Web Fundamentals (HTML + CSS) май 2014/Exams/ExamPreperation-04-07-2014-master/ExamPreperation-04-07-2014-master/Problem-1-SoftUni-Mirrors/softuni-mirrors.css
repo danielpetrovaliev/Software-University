@@ -1,0 +1,50 @@
+body, section, header, footer, h1, h2, article, p, image, a{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Tahoma;
+}
+
+section{
+    width: 870px;
+    background: #E1E1E1;
+}
+
+section>header, section>footer{
+    text-align: center;
+    padding: 10px;
+}
+
+section article{
+    width: 32%;
+    display: inline-block;
+    vertical-align: top;
+    background: #EFEFEF;
+    text-align: left;
+    padding: 10px 8px;
+    height: 100%;
+}
+
+section article:hover{
+    background: #FFFFFF;
+    cursor: pointer;
+}
+
+section div{
+    margin:0 auto;
+    width: 870px;
+    text-align: center;
+    height: 350px;
+}
+
+article img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+section article a{
+    text-decoration: none;
+    color: black;
+}

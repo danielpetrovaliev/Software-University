@@ -1,0 +1,90 @@
+html, body {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+
+body{
+    color: gray;
+}
+
+header{
+    width: 100%;
+    background: url("images/header-bg.png");
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+header h1{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: gray;
+    margin-top: 21px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+header nav{
+    float: right;
+    height: 100%;
+    font-size: 14px;
+    color: gray;
+}
+
+header>h1, header>nav#nav{
+    display: inline-block;
+    vertical-align: top;
+}
+
+nav#nav ul{
+    list-style-type: none;
+    padding: 0;
+ }
+
+nav#nav ul li{
+    display: inline-block;
+    padding: 8px 10px;
+}
+
+div#searchBar{
+    font-size: 14px;
+    background: black;
+    color: #ffffff;
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    padding: 15px 10px;
+    box-sizing: border-box;
+}
+
+
+div#searchBar div#archives{
+    display: inline-block;
+}
+div#searchBar a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+div#searchBar div#search{
+    float: right;
+    vertical-align: top;
+}
+
+div#content h1{
+    font-size: 24px;
+}
+
+div#content article{
+    font-size: 14px;
+}
+
+
+

@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Myicons';
+    src: url('../font/glyphicons-halflings-regular.ttf');
+}
+
+body, form, label, input{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("../images/blurred-green-background.jpg");
+    background-size: cover;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+
+
+form.login {
+    margin: 50px auto;
+    width: 350px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    box-shadow: 1px 1px 5px gray;
+    background: #F1F7E3;
+}
+
+form.login h1{
+    width: 100%;
+    height: 32px;
+    background: #93D55C;
+    text-align: center;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    margin-bottom: 20px;
+    color: white;
+    padding-top: 4px;
+    text-shadow: 1px 1px 1px black;
+    font-size: 22px;
+}
+
+label.label-name{
+    font-family: 'Myicons';
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid #CCCCCC;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 50px;
+    background: #EEEEEE;
+    height: 34px;
+    vertical-align: top;
+    margin-right: -5px;
+    margin-top: 10px;
+    content: "\e033";
+    padding-top: 8px;
+    padding-left: 16px;
+    color: #555555;
+}
+
+label.label-name:before{
+    content: "\e008";
+}
+
+label.label-pass{
+    font-family: 'Myicons';
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid #CCCCCC;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 50px;
+    background: #EEEEEE;
+    height: 34px;
+    vertical-align: top;
+    margin-right: -5px;
+    margin-top: 25px;
+    padding-top: 8px;
+    padding-left: 16px;
+    color: #555555;
+}
+
+label.label-pass:before{
+    content: "\e033";
+}
+
+input[type=email]{
+    width: 280px;
+    height: 34px;
+    vertical-align: top;
+    padding-left: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #CCCCCC;
+    margin-top: 10px;
+    outline: none;
+}
+
+input[type=password]{
+    width: 280px;
+    height: 34px;
+    vertical-align: top;
+    padding-left: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #CCCCCC;
+    margin-top: 25px;
+    outline: none;
+}
+
+input[type=submit]{
+    width: 330px;
+    height: 34px;
+    vertical-align: top;
+    border-radius: 5px;
+    border: 1px solid #4CAE4C;
+    margin: 50px 10px;
+    outline: none;
+    text-align: center;
+    box-shadow: 0px 3px 1px #229E22;
+    background: #5CB85C;
+    color: white;
+}
+
+form.search{
+    margin: 40px auto;
+    width: 350px;
+    height: 34px;
+}
+
+
+input[type=text]{
+    width: 260px;
+    height: 34px;
+    vertical-align: top;
+    padding-left: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #CCCCCC;
+    outline: none;
+    padding-left: 10px;
+}
+
+label.label-search{
+    font-family: 'Myicons';
+    display: inline-block;
+    border: 1px solid #CCCCCC;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 3px;
+    width: 90px;
+    background: #5CB85C;
+    height: 34px;
+    vertical-align: top;
+    margin-left: -5px;
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+}
+
+label.label-search:before{
+    content: "\e003";
+    padding-right: 6px;
+    vertical-align: middle;
+}
+

@@ -1,0 +1,95 @@
+body, header, footer, section, aside, ul, li, h1, h2, p, span, a, img{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div#wrapper{
+    background-color: #90EE90;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+
+body ul{
+    list-style-type: none;
+}
+
+#wrapper header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    width: 100%;
+    background: #ffffff;
+    margin-bottom: 10px;
+}
+
+body header nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+}
+
+#wrapper header nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#wrapper header nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+
+#wrapper header nav ul li{
+    margin-left: 15px;
+    background: #C7FBC7;
+
+}
+
+#wrapper section{
+    width: 74%;
+    background: #ffffff;
+    padding: 15px;
+}
+
+#wrapper aside{
+    width: 25%;
+    background-color: #ffffff;
+    padding: 10px;
+    align-self: flex-start;
+}
+
+#wrapper aside ul{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+#wrapper aside img{
+    width: 70%;
+}
+
+#wrapper section article{
+    background: #C7FBC7;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+
+#wrapper footer{
+    width: 100%;
+    padding: 15px;
+    background: #ffffff;
+    margin-top: 10px;
+}
+
+
+article p{
+    margin-top: 10px;
+}
+
+

@@ -1,0 +1,77 @@
+body, section, article, header, div, span, button{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Tahoma', 'Helvetica', 'sans-serif';
+    font-size: 11px;
+}
+
+h4{
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+section article header h4:hover{
+    color: gray;
+    content: "dadada";
+    cursor: pointer;
+}
+
+button{
+    font-size: 10px;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    padding-right: 5px;
+    border: none;
+    border-radius: 5px;
+    background: url("../images/shopping-cart-inactive.png") no-repeat;
+    outline: none;
+    cursor: pointer;
+}
+
+button:active{
+    background: url("../images/shopping-cart-active.png") no-repeat;
+}
+
+section{
+    width: 500px;
+    margin: 50px auto;
+}
+
+section article{
+    display: inline-block;
+    vertical-align: top;
+    width: 145px;
+}
+
+section article img{
+    border: 1px solid black;
+}
+
+section article img:hover{
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+div.author{
+    color: gray;
+    margin-bottom: 15px;
+}
+
+article span.price{
+    display: block;
+    color: #8F0509;
+    font-weight: bold;
+}
+
+button.bottom{
+    margin-top: 28px;
+}
+
+
+
