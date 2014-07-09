@@ -1,0 +1,13 @@
+﻿body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+  body main ul li {
+    color: white;
+    background-color: purple;
+    border: 1px solid black; }
+    body main ul li ul li {
+      background-color: yellow;
+      color: darkred;
+      border: 1px solid tomato;
+      list-style-type: none; }
+
+/*# sourceMappingURL=1. SelectorsNesting.css.map */

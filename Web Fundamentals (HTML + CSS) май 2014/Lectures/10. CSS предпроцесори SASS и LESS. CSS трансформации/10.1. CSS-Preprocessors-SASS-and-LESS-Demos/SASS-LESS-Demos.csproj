@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F3F4D0B-FC3D-4FF8-AA2E-560A7ED26B09}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SASS_LESSDemo</RootNamespace>
+    <AssemblyName>SASS,LESSDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1. SelectorsNesting.css">
+      <DependentUpon>1. SelectorsNesting.scss</DependentUpon>
+    </Content>
+    <Content Include="1. SelectorsNesting.min.css">
+      <DependentUpon>1. SelectorsNesting.css</DependentUpon>
+    </Content>
+    <Content Include="2. Variables.css">
+      <DependentUpon>2. Variables.scss</DependentUpon>
+    </Content>
+    <Content Include="2. Variables.min.css">
+      <DependentUpon>2. Variables.css</DependentUpon>
+    </Content>
+    <Content Include="3. Mixins.css">
+      <DependentUpon>3. Mixins.scss</DependentUpon>
+    </Content>
+    <Content Include="3. Mixins.min.css">
+      <DependentUpon>3. Mixins.css</DependentUpon>
+    </Content>
+    <Content Include="4. SelectorInheritance.css">
+      <DependentUpon>4. SelectorInheritance.scss</DependentUpon>
+    </Content>
+    <Content Include="4. SelectorInheritance.min.css">
+      <DependentUpon>4. SelectorInheritance.css</DependentUpon>
+    </Content>
+    <Content Include="5. ImportingSASS.css">
+      <DependentUpon>5. ImportingSASS.scss</DependentUpon>
+    </Content>
+    <Content Include="5. ImportingSASS.min.css">
+      <DependentUpon>5. ImportingSASS.css</DependentUpon>
+    </Content>
+    <Content Include="5. ImportSASSFiles.html" />
+    <Content Include="3. Mixins.html" />
+    <Content Include="4. SelectorInheritance.html" />
+    <Content Include="1. SelectorsNesting.html" />
+    <Content Include="2. Variables.html" />
+    <Content Include="6. LESS-Example.css">
+      <DependentUpon>6. LESS-Example.less</DependentUpon>
+    </Content>
+    <Content Include="6. LESS-Example.min.css">
+      <DependentUpon>6. LESS-Example.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1. SelectorsNesting.scss" />
+    <Content Include="2. Variables.scss" />
+    <Content Include="3. Mixins.scss" />
+    <Content Include="4. SelectorInheritance.scss" />
+    <Content Include="5. ImportingSASS.scss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1. SelectorsNesting.css.map">
+      <DependentUpon>1. SelectorsNesting.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2. Variables.css.map">
+      <DependentUpon>2. Variables.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3. Mixins.css.map">
+      <DependentUpon>3. Mixins.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="4. SelectorInheritance.css.map">
+      <DependentUpon>4. SelectorInheritance.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="5. ImportingSASS.css.map">
+      <DependentUpon>5. ImportingSASS.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="6. LESS-Example.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="6. LESS-Example.less" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="6. LESS-Example.css.map">
+      <DependentUpon>6. LESS-Example.css</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>9247</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:9247/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,31 @@
+﻿$font-default: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$text-color-default: white;
+$border-default: 1px solid black;
+$background-color-default:purple;
+
+body {
+    font-family:$font-default;
+    main {
+        ul {
+            li {
+                background-color:$background-color-default;
+                color:$text-color-default;
+                border:$border-default;
+                ul li {
+                    width:200px;
+                    background-color:yellow;
+                    color:darkred;
+                    border:1px solid tomato;
+                    transition: 1s;
+                    list-style-type:none;
+                    &:hover {
+                        width:400px;
+                        background-color:$background-color-default;
+                        color:$text-color-default;
+                        font-weight:900;
+                    }
+                }
+            }
+        }
+    }
+}

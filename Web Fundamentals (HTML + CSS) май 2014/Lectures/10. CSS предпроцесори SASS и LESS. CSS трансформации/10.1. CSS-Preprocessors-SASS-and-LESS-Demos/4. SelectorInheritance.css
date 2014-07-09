@@ -1,0 +1,13 @@
+﻿div {
+  margin: 20px;
+  padding: 5px; }
+
+.default-border, .dotted-border {
+  border: 3px solid black;
+  background: tomato;
+  border-radius: 8px; }
+
+.dotted-border {
+  border-style: dotted; }
+
+/*# sourceMappingURL=4. SelectorInheritance.css.map */

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://jekyll.gtat.me</loc>
+    </url>
+
+    
+    <url>
+        <loc>http://jekyll.gtat.me/articles/test-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://jekyll.gtat.me/articles/the-little-prince</loc>
+    </url>
+    
+    <url>
+        <loc>http://jekyll.gtat.me/articles/post-with-figure</loc>
+    </url>
+    
+    <url>
+        <loc>http://jekyll.gtat.me/articles/post-with-feature</loc>
+    </url>
+    
+    <url>
+        <loc>http://jekyll.gtat.me/articles/longform-post</loc>
+    </url>
+    
+</urlset>

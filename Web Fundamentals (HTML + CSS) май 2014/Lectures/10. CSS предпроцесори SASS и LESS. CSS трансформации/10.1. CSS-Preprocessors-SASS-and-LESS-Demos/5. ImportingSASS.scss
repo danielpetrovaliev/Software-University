@@ -1,0 +1,9 @@
+﻿@import '4. SelectorInheritance.scss';
+
+/* This will not work as expected! */
+$bgcolor: green;
+
+.dashed-border {
+  @extend .default-border;
+  border-style: dashed;
+}

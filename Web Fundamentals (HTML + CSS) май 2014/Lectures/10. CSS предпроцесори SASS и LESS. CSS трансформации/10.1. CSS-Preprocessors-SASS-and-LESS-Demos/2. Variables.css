@@ -1,0 +1,20 @@
+﻿body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+  body main ul li {
+    background-color: purple;
+    color: white;
+    border: 1px solid black; }
+    body main ul li ul li {
+      width: 200px;
+      background-color: yellow;
+      color: darkred;
+      border: 1px solid tomato;
+      transition: 1s;
+      list-style-type: none; }
+      body main ul li ul li:hover {
+        width: 400px;
+        background-color: purple;
+        color: white;
+        font-weight: 900; }
+
+/*# sourceMappingURL=2. Variables.css.map */

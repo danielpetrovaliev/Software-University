@@ -1,0 +1,17 @@
+﻿div {
+  margin: 20px;
+  padding: 5px; }
+
+.default-border, .dotted-border, .dashed-border {
+  border: 3px solid black;
+  background: tomato;
+  border-radius: 8px; }
+
+.dotted-border {
+  border-style: dotted; }
+
+/* This will not work as expected! */
+.dashed-border {
+  border-style: dashed; }
+
+/*# sourceMappingURL=5. ImportingSASS.css.map */
