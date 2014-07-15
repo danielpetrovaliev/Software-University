@@ -1,0 +1,44 @@
+div#wrapper{
+    font-family: "verdana", sans-serif;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#wrapper header{
+    text-align: center;
+    font-weight: normal;
+}
+
+body table{
+    text-align: center;
+    border-spacing: 0;
+    margin-top: 50px;
+}
+
+table tr td{
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+table tr:nth-child(1) td:nth-child(1),table tr:nth-child(1) td:nth-child(2){
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+table tr:nth-child(2) td:nth-child(1),table tr:nth-child(2) td:nth-child(2){
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+table tr:nth-child(1) td:last-child, table tr:nth-child(2) td:last-child{
+    border-bottom: 2px solid black;
+}
+
+table tr:last-child td:nth-child(1), table tr:last-child td:nth-child(2){
+    border-right: 2px solid black;
+}
