@@ -1,0 +1,36 @@
+div#wrapper{
+    width: 250px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input{
+    background: #234465;
+    color: #F29A03;
+    padding-left: 10px;
+    width: 100%;
+    outline: none;
+    border: 1px solid #234465;
+    line-height: 25px;
+    box-sizing: border-box;
+}
+
+button{
+    border: 1px solid #234465;
+    color: #234465;
+    text-align: center;
+    margin: 10px 0;
+    padding: 8px 15px;
+    outline: none;
+}
+
+p#result{
+    line-height: 30px;
+    background-color: #234465;
+    width: 100%;
+    color: #F29A03;
+    text-align: left;
+    box-sizing: border-box;
+    padding: 0 0 0 10px;
+    margin: 0;
+}
