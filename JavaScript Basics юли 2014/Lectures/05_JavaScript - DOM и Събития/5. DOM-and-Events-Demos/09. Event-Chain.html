@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Event Model - The Event Chain</title>
+    <script src="scripts/cross-browser-events.js"></script>
+</head>
+
+<body onload="onBodyLoad()">
+    <div>
+        <section>
+            <div>
+				<a class="button" href="#">Click Me</a>
+            </div>
+        </section>
+    </div>
+    <script>
+        function onClick() {
+            console.log("onClick: " + this.nodeName); // show the chain
+        }
+
+        function getFirstElementChild(element) {
+            if (!element) {
+                return;
+            }
+
+            var child = element.firstChild;
+            while (child && child.nodeType !== Node.ELEMENT_NODE) {
+                child = child.nextSibling;
+            }
+
+            return child;
+        }
+
+        function onBodyLoad() {
+            var element = document.body;
+            while (element) {
+                attachEventHandler(element, "click", onClick);
+                element = getFirstElementChild(element);
+            }
+        }
+    </script>
+</body>
+
+</html>

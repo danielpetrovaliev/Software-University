@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DOM Manipulation - Live NodeList</title>
+	<style>
+		div {
+            background: url('images/logo.png') no-repeat ;
+            background-size: 75px 75px;
+			display: inline-block;
+			width: 75px;
+			height: 75px;
+			zoom: 1;
+			border: 1px solid black;
+			border-radius: 5px;
+            margin: 4px;
+		}
+	</style>
+</head>
+<body>
+	<a href="#" onclick="onAddDivButtonClick()">Add div</a>
+	
+	<div></div>
+	<div></div>
+	<div></div>
+
+	<script>
+		var divs = document.getElementsByTagName('div');
+		var qdivs = document.querySelectorAll('div');
+
+		function onAddDivButtonClick() {
+			var div = document.createElement('div');
+			document.body.appendChild(div);
+			console.log('getElementsByTagName(\"div\") = ' + divs.length);
+			console.log('querySelectorAll(\"div\") = ' + qdivs.length);
+        }
+	</script>
+</body>
+</html>

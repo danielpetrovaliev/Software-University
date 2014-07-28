@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Document Object Model - HTML Elements</title>
+	<style>
+		#logo {
+			text-align: center;
+			padding-top: 30px;
+		}
+	</style>	
+</head>
+<body>
+	<div id="logo">
+		<img id="logo-img" src="images/logo.png" />
+	</div>
+	<script>
+		var softUniLogo = document.getElementById('logo-img');
+		setInterval(function() {
+			if (softUniLogo.style.visibility == 'hidden') {
+				softUniLogo.style.visibility = 'visible';
+			} else {
+				softUniLogo.style.visibility = 'hidden';
+			}
+		}, 500, true);
+	</script>
+</body>
+</html>
