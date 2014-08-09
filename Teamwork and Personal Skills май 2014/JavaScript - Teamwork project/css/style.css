@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Keep Calm';
+    src: url('../fonts/KeepCalm-Medium.otf');
+    src: local('☺'), url('../fonts/KeepCalm-Medium.otf') format('woff'), url('../fonts/KeepCalm-Medium.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/Lightning_Pritzerbe_01_(MK).jpg');
+    color: #FFFFFF;
+    line-height: 1;
+    font-family: Helvetica, Tahoma, Verdana;
+    font-size: 12px;
+}
+
+#wrapper {
+    width: 100%;
+    margin: 20px auto 0;
+}
+
+h1 {
+    font-family: "Keep Calm";
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    -webkit-transition: translateZ(0px);
+    -khtml-transition: translateZ(0px);
+    -moz-transition: translateZ(0px);
+    -o-transition: translateZ(0px);
+    transition: translateZ(0px);
+}
+
+.animation {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30px;
+}
+
+.charcontainer {
+    display: block;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+}
+
+.info {
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    -webkit-transition: opacity 1s ease-in-out;
+    -khtml-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+.keybutton {
+    background-color: #666666;
+    border-radius: 10px;
+    height: 92px;
+    position: absolute;
+    width: 92px;
+}
+
+.pip {
+    background: url('../img/visual.png') no-repeat #fff;
+    display: block;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 12px !important;
+    height: 12px !important;
+}
+
+#container {
+    cursor: pointer;
+    position: relative;
+    margin: 10px auto 0 auto;
+}
+
+#score, #highScore{
+    width: 640px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-size: 22px;
+    height: 24px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+#info {
+    font-weight: bold;
+    text-align: center;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+}
+
+#infobg {
+    background-color: black;
+}
+
+#paused {
+    text-align: center;
+    color: red;
+}
+
