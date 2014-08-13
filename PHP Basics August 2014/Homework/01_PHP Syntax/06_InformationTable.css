@@ -1,0 +1,18 @@
+table td{
+    padding: 8px 5px;
+
+}
+
+table{
+    display: inline-block;
+    margin-right: 50px;
+
+    border-spacing: 0;
+
+}
+
+table td:first-child{
+    background-color: #FF9C00;
+    font-weight: bold;
+
+}
