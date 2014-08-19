@@ -1,6 +1,7 @@
 <?php
-$listOfTags = [];
+$mostFreqTag = "";
 if (isset($_POST['tags'])) {
+    $listOfTags = [];
     $tags = $_POST['tags'];
     $arrOfTags = explode(", ", $tags);
     $result = "";
@@ -15,7 +16,14 @@ if (isset($_POST['tags'])) {
     foreach ($listOfTags as $key => $value) {
         $result .= "$key : $value times" . "<br />";
     }
-    $mostFreqTag = $listOfTags[0];
+
+    //get most frequent tag :)
+    foreach ($listOfTags as $key => $value) {
+        $mostFreqTag = $key;
+        break;
+    }
+
+
 
 
 }
@@ -39,7 +47,7 @@ if (isset($_POST['tags'])) {
         ?>
     </p>
     <p>
-        <?= $mostFreqTag ?>
+        Most Frequent Tag is: <?= $mostFreqTag; ?>
     </p>
 </body>
 </html>
