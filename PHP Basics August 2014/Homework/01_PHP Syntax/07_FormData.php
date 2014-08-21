@@ -31,8 +31,8 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
 <form method="post" action="">
     <input placeholder="Name.." name="name" type="text"/>
     <input placeholder="Age.." name="age" type="text"/>
-    <label for="male"><input id="male" name="sex" type="radio" />Male</label>
-    <label for="female"><input id="female" name="sex" type="radio" />Female</label>
+    <label for="male"><input id="male" value="Male" name="sex" type="radio" />Male</label>
+    <label for="female"><input id="female" value="Female" name="sex" type="radio" />Female</label>
     <input name="submit" type="submit"/>
 
 </form>
