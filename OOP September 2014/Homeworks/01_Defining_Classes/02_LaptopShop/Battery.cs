@@ -31,6 +31,7 @@ public class Battery
             {
                 throw new ArgumentOutOfRangeException("Life in Hours can not be negative");
             }
+            this.lifeInHours = value;
         } 
     }
 

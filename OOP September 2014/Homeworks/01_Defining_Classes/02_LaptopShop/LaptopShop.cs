@@ -16,7 +16,7 @@ public class LaptopShop
             graphicsCard:"Intel HD Graphics 4400",
             ram: 8,
             battery: "4 kletachna",
-            batteryLife: 5,
+            batteryLife: 4,
             screen: "13.3 inch",
             price: 2259.0m
             );
@@ -31,7 +31,7 @@ public class LaptopShop
             processor: "Intel Core i5-4210U (2-core, 1.70 - 2.70 GHz, 3MB cache)",
             graphicsCard: "Intel HD Graphics 4400",
             ram: 8,
-            batteryLife: 5,
+            batteryLife: 8,
             screen: "13.3 inch",
             price: 2259.0m
             );
