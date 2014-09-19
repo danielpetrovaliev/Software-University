@@ -51,16 +51,13 @@ class Computer
 
     public override string ToString()
     {
-        decimal totalPrice = 0.0m;
         string result = String.Format("Computer: \n Name:{0}\n Components: \n", this.Name);
         foreach (Component component in Components)
         {
             result += component + "\n";
-            totalPrice += component.Price;
-
         }
 
-        result += "Price: " + totalPrice + " BGN";
+        result += "Price: " + this.Price + " BGN";
         return result;
     }
 }
