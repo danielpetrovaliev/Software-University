@@ -201,7 +201,22 @@ namespace _03_Class_Student
             // 14_Students Joined To Specialties
             Console.WriteLine("_14_Students Joined To Specialties: ---------------------------------> \n");
 
+            StudentSpecialty goshko = new StudentSpecialty("Software Enginering", 10111234);
+            StudentSpecialty achkata = new StudentSpecialty("Ecology", 12119874);
+            List<StudentSpecialty> specialties = new List<StudentSpecialty>();
+            specialties.Add(goshko);
+            specialties.Add(achkata);
 
+            var studentsWithSpecialties =
+                from speciality in specialties
+                join student in students on speciality.FacultyNumber equals student.FacultyNumber
+                select new { student, FacultyName = speciality.SpecialityName };
+
+            foreach (var item in studentsWithSpecialties)
+            {
+                Console.WriteLine(item);
+                Console.WriteLine();
+            }
         }
     }
 }
