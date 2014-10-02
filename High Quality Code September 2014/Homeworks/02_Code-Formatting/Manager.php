@@ -1,8 +1,10 @@
-<?php namespace League\CLImate\Settings;
+<?php
+namespace League\CLImate\Settings;
 
 class Manager
 {
     public $settings = [];
+
     public function exists($name)
     {
         return class_exists($this->getPath($name));
@@ -44,8 +46,7 @@ class Manager
     public function importSetting($setting)
     {
         $short_name = basename(str_replace('\\', '/', get_class($setting)));
-        $method = 'importSetting'
-            . $short_name;
+        $method = 'importSetting' . $short_name;
         if (method_exists($this, $method)) {
             $this->$method($setting);
         }
