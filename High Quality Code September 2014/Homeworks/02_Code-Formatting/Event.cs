@@ -27,9 +27,13 @@ class Event : IComparable
         if (byDate == 0)
         {
             if (byTitle == 0)
+            {
                 return byLocation;
+            }
             else
+            {
                 return byTitle;
+            }
         }
 
         else
@@ -45,7 +49,9 @@ class Event : IComparable
         toString.Append(" | " + title);
 
         if (location != null && location != "")
+        {
             toString.Append(" | " + location);
+        }
         
         return toString.ToString();
     }
@@ -64,11 +70,15 @@ class Program
 
         public static void EventDeleted(int x)
         {
-            if (x == 0) 
+            if (x == 0)
+            {
                 NoEventsFound();
+            }
 
-            else 
+            else
+            {
                 output.AppendFormat("{0} events deleted\n", x);
+            }
         }
 
         public static void NoEventsFound() 
@@ -118,15 +128,18 @@ class Program
             int showed = 0;
             foreach (var eventToShow in eventsToShow)
             {
-                if (showed == count) 
+                if (showed == count)
+                {
                     break;
-
+                }
                 Messages.PrintEvent(eventToShow);
                 showed++;
             }
 
             if (showed == 0)
+            {
                 Messages.NoEventsFound();
+            }
         }
     } 
 
@@ -157,11 +170,10 @@ class Program
             return true; 
         }
 
-        if (command[0] == 'E') 
+        if (command[0] == 'E')
         {
             return false;
         }
-
         return false;
     }
 
