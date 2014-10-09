@@ -6,6 +6,10 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
 
+
+/// <summary>
+/// This Class have few awesome methods for string which make work easier.
+/// </summary>
 public static class StringExtensions
 {
     public static string ToMd5Hash(this string input)
@@ -16,20 +20,18 @@ public static class StringExtensions
 
         for (int i = 0; i < data.Length; i++)
         {
-            builder.Append(data[i].ToString("x2"));
+            builder.Append(i.ToString("x2"));
         }
 
         return builder.ToString();
     }
 
-    // This method convert string to boolean
     public static bool ToBoolean(this string input)
     {
         var stringTrueValues = new[] { "true", "ok", "yes", "1", "да" };
         return stringTrueValues.Contains(input.ToLower());
     }
 
-    // This method parse string to short
     public static short ToShort(this string input)
     {
         short shortValue;
@@ -37,7 +39,6 @@ public static class StringExtensions
         return shortValue;
     }
 
-    // This method parse string to integer
     public static int ToInteger(this string input)
     {
         int integerValue;
@@ -45,7 +46,6 @@ public static class StringExtensions
         return integerValue;
     }
 
-    // This method parse string to long
     public static long ToLong(this string input)
     {
         long longValue;
@@ -53,7 +53,6 @@ public static class StringExtensions
         return longValue;
     }
 
-    // This method convert string to DateTime
     public static DateTime ToDateTime(this string input)
     {
         DateTime dateTimeValue;
@@ -61,7 +60,6 @@ public static class StringExtensions
         return dateTimeValue;
     }
 
-    // 
     public static string CapitalizeFirstLetter(this string input)
     {
         if (string.IsNullOrEmpty(input))
@@ -74,6 +72,7 @@ public static class StringExtensions
             input.Substring(1, input.Length - 1);
     }
 
+    // This method return string between two strings
     public static string GetStringBetween(
         this string input, string startString, string endString, int startFrom = 0)
     {
@@ -181,7 +180,6 @@ public static class StringExtensions
         return fileParts.Last().Trim().ToLower();
     }
 
-    // Get content type by extension
     public static string ToContentType(this string fileExtension)
     {
         var fileExtensionToContentType = new Dictionary<string, string>
@@ -208,5 +206,11 @@ public static class StringExtensions
         var bytesArray = new byte[input.Length * sizeof(char)];
         Buffer.BlockCopy(input.ToCharArray(), 0, bytesArray, 0, bytesArray.Length);
         return bytesArray;
+    }
+
+    static void Main()
+    {
+        string test = GetStringBetween("Hi i am very happy.", "am", "h");
+        Console.WriteLine(test);
     }
 }
