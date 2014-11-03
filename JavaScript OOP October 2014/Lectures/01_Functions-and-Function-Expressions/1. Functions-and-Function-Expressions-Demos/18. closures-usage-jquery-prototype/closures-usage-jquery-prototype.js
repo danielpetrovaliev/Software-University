@@ -1,12 +1,12 @@
-// (function ($) {
-// 	var $root = $('#root');
+ (function ($) {
+ 	var $root = $('#root');
 
-// 	console.log($root.html());
-// 	//Error! $ is not jQuery here (Prototype.js is loaded last)
-// }(jQuery));
+ 	console.log($root.html());
+ 	//Error! $ is not jQuery here (Prototype.js is loaded last)
+ }(jQuery));
 
-// (function ($) {
+ (function ($) {
 var $root = $('root');
 
 console.log($root.innerHTML);
-// }(Prototype));
+ }(Prototype));
