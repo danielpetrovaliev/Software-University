@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Web Geometry Api</title>
+    <style>
+        .form{
+            margin: 20px 0 0 10px;
+            border: 1px solid black;
+            width: 40%;
+            display: inline-block;
+            height: 500px;
+            padding: 15px;
+            box-sizing: border-box;
+        }
+        .canvas {
+            margin: 20px 10px 0 10px;
+            border: 1px solid black;
+            width: 55%;
+            display: inline-block;
+            height: 500px;
+            position: absolute;
+            box-sizing: border-box;
+        }
+        #drawedShapes{
+            width: 85%;
+            height: 150px;
+        }
+        #xYColor{
+            margin-bottom: 15px;
+        }
+        #addButton{
+            margin-top: 5px;
+        }
+        #button{
+            width: 45px;
+            height: 22px;
+        }
+        #otherParameters{
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="form">
+        <form action="">
+            <div id="xYColor">
+                <label for="x"> X: </label>
+                <input id="x" type="text"/>
+                <label for="y"> Y: </label>
+                <input id="y" type="text"/>
+                <label id="labelColor" for="color">Color</label>
+                <input id="color" type="color"/>
+            </div>
+            <label for="shape">Shape: </label>
+            <select id="shape" onchange="generateInputs()" >
+                <option value="triangle">Triangle</option>
+                <option value="rectangle">Rectangle</option>
+                <option value="segment">Segment</option>
+                <option value="circle">Circle</option>
+                <option value="point">Point</option>
+            </select>
+
+            <div id="otherParameters">
+
+            </div>
+            <select id="drawedShapes" multiple>
+
+            </select>
+
+            <div id="addButton">
+                <a href="#" id="button" onclick="addCanvas()">Add</a>
+            </div>
+        </form>
+    </div>
+    <canvas id="canvas" class="canvas">
+
+    </canvas>
+    <script src="../01_Shapes/shapes.js"></script>
+    <script src="Geometry-Api.js"></script>
+    <script src="addCanvas.js"></script>
+    <!--<script>
+        var rect = new Shapes.Rectangle(5, 5, "#FFF", 100, 200);
+        rect.draw();
+    </script>-->
+</body>
+</html>
