@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{E6FB73B0-3E88-4B10-B4B9-F927E3CAAE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.Tests", "Cars.Tests\Cars.Tests.csproj", "{4ED1EDA7-34D9-476E-8BFD-A7E720EA75FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{476C05C3-3B1D-460F-82A2-7FD63DE7C92B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FB73B0-3E88-4B10-B4B9-F927E3CAAE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FB73B0-3E88-4B10-B4B9-F927E3CAAE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FB73B0-3E88-4B10-B4B9-F927E3CAAE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FB73B0-3E88-4B10-B4B9-F927E3CAAE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED1EDA7-34D9-476E-8BFD-A7E720EA75FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED1EDA7-34D9-476E-8BFD-A7E720EA75FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED1EDA7-34D9-476E-8BFD-A7E720EA75FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED1EDA7-34D9-476E-8BFD-A7E720EA75FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
