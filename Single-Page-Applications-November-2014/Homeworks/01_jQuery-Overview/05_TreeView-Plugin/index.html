@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .items{
+            list-style-image: url("images/arrow.png");
+            z-index: 5;
+        }
+        .sub-item{
+            z-index: 0;
+        }
+        .hidden{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<script src="../libs/jquery-2.1.1.min.js"></script>
+<script src="../libs/jquery-ui.min.js"></script>
+<script src="treeView.js"></script>
+
+    <ul class="items">
+        <li>Item</li>
+        <li>Item</li>
+        <li class="item">Item</li>
+        <div class="sub-items">
+            <ul>
+                <li>Sub item</li>
+                <li class="sub-item">Sub item</li>
+                <div class="in-sub-items">
+                    <ul>
+                        <li>Sub item</li>
+                        <li>Sub item</li>
+                    </ul>
+                </div>
+            </ul>
+        </div>
+        <li>Item</li>
+        <li>Item</li>
+    </ul>
+</body>
+</html>

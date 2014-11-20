@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Background Color Switch</title>
+	<style>
+		#form{
+			display: inline-block;
+			vertical-align: top;
+		}
+		#birds{
+			display: inline-block;
+			vertical-align: top;
+		}
+		.field{
+			margin-bottom: 15px;
+		}
+		#wrapper{
+			width: 500px;
+			margin: 50px auto;
+		}
+		ul{
+			margin: 0;
+		}
+		
+	</style>
+</head>
+<body>
+	<script src="../libs/jquery-2.1.1.min.js"></script>
+	<script src="backgroundSwitch.js"></script>
+	<div id="wrapper">
+		<div id="form">
+			<div class="field">
+				<label for="class">Class: </label>
+				<input id="class" type="text" />
+			</div>
+			<div class="field">
+				<label for="color">Color: </label>
+				<input id="color" type="color" />
+			</div>
+			<button id="paintButton">Paint</button>
+		</div>
+		<div id="birds">
+			<ul>
+		    	<li class="bird">Hummingbird</li>
+			    <li class="bird">Nightingale</li>
+			    <li>Lizard</li>
+			    <li class="bird">Eagle</li>
+			    <li class="bird">Sparrow</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

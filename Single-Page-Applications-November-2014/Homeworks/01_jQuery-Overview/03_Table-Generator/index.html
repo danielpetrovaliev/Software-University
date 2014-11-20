@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Table Generator</title>
+    <style>
+        #wrapper{
+            width: 600px;
+            margin: 0 auto;
+        }
+        #process{
+            width: 100px;
+            height: 30px;
+        }
+        #button-container{
+            width: 130px;
+            margin: 30px auto;
+        }
+        th {
+            background-color: #76923C;
+            font-weight: bold;
+            text-align: center;
+            padding: 2px 30px;
+        }
+        td, th, table{
+            border: 1px solid black;
+            outline: 0;
+            border-collapse: collapse;
+        }
+        td{
+            padding: 1px 8px;
+        }
+    </style>
+</head>
+<body>
+    <script src="../libs/jquery-2.1.1.min.js"></script>
+    <script src="fillTable.js"></script>
+    <div id="wrapper">
+        <div id="button-container">
+            <button id="process">Fill the Table</button>
+        </div>
+        <div id="table-container">
+            <h2>Cars: </h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Manufacturer</th>
+                        <th>Model</th>
+                        <th>Year</th>
+                        <th>Price</th>
+                        <th>Class</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+#wrapper{
+    width: 900px;
+    margin: 50px auto;
+    height: 500px;
+    text-align: center;
+}
+
+#wrapper div{
+    vertical-align: middle;
+}
+
+#left-button-container, #right-button-container, #images-container{
+    display: inline-block;
+}
+
+#images-container{
+    height: 100%;
+}
+
+.image{
+    width: 800px;
+}
+
+body{
+    background: lightgray;
+    font-size: 25px;
+}
+
+.glyphicon-chevron-left{
+    margin-right: 10px;
+}
+
+.glyphicon-chevron-right{
+    margin-left: 10px;
+}
+
+.glyphicon-chevron-left:active{
+    position: relative;
+    right: 2px;
+}
+
+.glyphicon-chevron-right:active{
+    position: relative;
+    left: 2px;
+}
