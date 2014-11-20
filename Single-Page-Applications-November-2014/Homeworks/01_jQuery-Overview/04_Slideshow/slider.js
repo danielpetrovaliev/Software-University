@@ -3,11 +3,17 @@
  */
 (function() {
     var index = 1;
+    var intervalInMillisec = 5000;
 
     $(document).ready(function () {
         $('#button-left').on('click', previousSlide);
         $('#button-right').on('click', nextSlide);
         nextSlide();
+
+        setInterval(function () {
+            $('#button-right').trigger('click');
+        }, intervalInMillisec);
+
     });
 
 

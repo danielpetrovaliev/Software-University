@@ -19,6 +19,8 @@
 
 .image{
     width: 800px;
+    border-radius: 30px;
+    border: 1px solid gray;
 }
 
 body{
