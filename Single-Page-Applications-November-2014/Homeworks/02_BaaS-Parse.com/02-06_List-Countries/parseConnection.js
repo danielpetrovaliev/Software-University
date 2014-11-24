@@ -38,13 +38,12 @@
         updateCountries();
         updateTowns();
     });
-
-
+    
     function updateCountries(){
         $.ajax({
             method: "GET",
             url: "https://api.parse.com/1/classes/Country",
-            success: getCountries,
+            success: [getCountries, drawCountriesInSelect],
             error: errorLoadData
         });
     }
@@ -81,13 +80,12 @@
                 var country = $(this).parent().data('country');
                 modal({
                     type  : 'prompt',
-                    title : 'Add Country',
+                    title : 'Edit Country name',
                     text  : "Name: ",
                     theme : 'atlant',
                     callback : editCountry
                 });
                 function editCountry(newCountryName){
-                    $('#countries').children().remove();
                     if (newCountryName) {
                         $.ajax({
                             method: 'PUT',
@@ -114,7 +112,6 @@
                     callback : addTownToCountry
                 });
                 function addTownToCountry(newTown){
-                    $('#towns').children().remove();
                     if (newTown) {
                         $.ajax({
                             method: 'POST',
@@ -163,17 +160,15 @@
                 $this.parent().remove();
             });
             $('#towns').find('.edit').off().click(function () {
-                console.log('Edit button clicked!');
                 var town = $(this).parent().data('town');
                 modal({
                     type  : 'prompt',
-                    title : 'Add Country',
+                    title : 'Edit town name',
                     text  : "Name: ",
                     theme : 'atlant',
                     callback : editTown
                 });
                 function editTown(newTownName){
-                    $('#towns').children().remove();
                     if (newTownName) {
                         $.ajax({
                             method: 'PUT',
@@ -196,7 +191,6 @@
     }
 
     function errorLoadData(){
-        /*$(document.body).append($('<div>').html('<div class="alert alert-danger" role="alert"><strong>Error!</strong> Problem with connection with database.</div>'))*/
         $(function () {
             modal({
                 type: 'alert',
@@ -224,6 +218,36 @@
 
     }
 
+    function drawCountriesInSelect(data){
+        var countries = data.results;
+        $('#by-country').children().remove();
+        $(countries).each(function (_, country) {
+            $('#by-country').append($('<option>').attr('value', country.objectId).text(country.name).data('country', country));
+        });
+        $('#by-country').on('change', function () {
+            var id = $(this).val();
+            $.ajax({
+                method: "GET",
+                url: 'https://api.parse.com/1/classes/Town?where={"country":{"__type":"Pointer","className":"Country","objectId":"' + id + '"}}',
+                success: drawTownsByCountry,
+                error: errorLoadData
+            })
+        });
+
+        function drawTownsByCountry(data){
+            $('#towns-by-country').children().remove();
+            var towns = data.results;
+
+            if (towns.length > 0) {
+                $(towns).each(function (_, town) {
+                    $('#towns-by-country').append($('<li class="list-group-item">').text(town.name))
+                })
+            } else{
+                $('#towns-by-country').append($('<li class="list-group-item list-group-item-danger">').text('No Results.'))
+            }
+        }
+    }
+
     $(function () {
         $('#add-country').click(function () {
             modal({
@@ -243,35 +267,6 @@
             success: drawCountriesInSelect,
             error: errorLoadData
         });
-        function drawCountriesInSelect(data){
-            var countries = data.results;
-            $(countries).each(function (_, country) {
-                $('#by-country').append($('<option>').attr('value', country.objectId).text(country.name).data('country', country));
-            });
-            $('#by-country').on('change', function () {
-                var id = $(this).val();
-                $.ajax({
-                    method: "GET",
-                    url: 'https://api.parse.com/1/classes/Town?where={"country":{"__type":"Pointer","className":"Country","objectId":"' + id + '"}}',
-                    success: drawTownsByCountry,
-                    error: errorLoadData
-                })
-            });
-
-            function drawTownsByCountry(data){
-                $('#towns-by-country').children().remove();
-                var towns = data.results;
-
-                if (towns.length > 0) {
-                    $(towns).each(function (_, town) {
-                        $('#towns-by-country').append($('<li class="list-group-item">').text(town.name))
-                    })
-                } else{
-                    $('#towns-by-country').append($('<li class="list-group-item list-group-item-danger">').text('No Results.'))
-                }
-            }
-        }
-
     })
 
 }());
