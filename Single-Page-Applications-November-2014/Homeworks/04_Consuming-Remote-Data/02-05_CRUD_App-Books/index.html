@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Books</title>
+	<link rel="stylesheet" href="../libs/bootstrap.min.css">
+	<link rel="stylesheet" href="../libs/bootstrap-theme.min.css">
+
+	<style>
+		.panel{
+			margin-top: 50px;
+		}
+		.btn-remove{
+			margin-left: 5px;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="container">
+		<div class="panel panel-default">
+		  	<!-- Default panel contents -->
+		  	<div class="panel-heading">Books</div>
+		  	 <div class="panel-body">
+    			<button type="button" class="btn btn-default" data-toggle="modal" data-target="#add-book-modal">
+    				Add Book
+				</button>
+  			</div>
+		  	<!-- Table -->
+		  	<table class="table books">
+			    
+		  	</table>
+		</div>
+	</div>
+
+	<!-- Modal Add Book -->
+	<div class="modal fade" id="add-book-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+	        <h4 class="modal-title" id="myModalLabel">Add new book</h4>
+	      </div>
+	      <div class="modal-body">
+	        <form id="add-book-form" class="form-horizontal">
+	        	<div class="form-group">
+				      <label for="inputBookTitle" class="col-lg-2 control-label">Book title</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputBookTitle" placeholder="Title">
+				      </div>
+			    </div>
+			    <div class="form-group">
+				      <label for="inputBookAuthor" class="col-lg-2 control-label">Author</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputBookAuthor" placeholder="Author">
+				      </div>
+			    </div>
+			    <div class="form-group">
+				      <label for="inputBookISBN" class="col-lg-2 control-label">ISBN</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputBookISBN" placeholder="ISBN">
+				      </div>
+			    </div>
+    		</form>
+	      </div>
+	      <div class="modal-footer">
+	        	<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        	<button type="button" id="add-book" class="btn btn-primary" data-dismiss="modal">Add</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- Modal Edit Book -->
+	<div class="modal fade" id="edit-book-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+	        <h4 class="modal-title" id="myModalLabel">Edit book</h4>
+	      </div>
+	      <div class="modal-body">
+	        <form id="edit-book-form" class="form-horizontal">
+	        	<div class="form-group">
+				      <label for="inputEditBookTitle" class="col-lg-2 control-label">Book title</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputEditBookTitle" placeholder="Title">
+				      </div>
+			    </div>
+			    <div class="form-group">
+				      <label for="inputEditBookAuthor" class="col-lg-2 control-label">Author</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputEditBookAuthor" placeholder="Author">
+				      </div>
+			    </div>
+			    <div class="form-group">
+				      <label for="inputEditBookISBN" class="col-lg-2 control-label">ISBN</label>
+				      <div class="col-lg-10">
+				        	<input type="text" required class="form-control" id="inputEditBookISBN" placeholder="ISBN">
+				      </div>
+			    </div>
+			    <div class="form-group">
+				      <label for="inputEditBookId" class="col-lg-2 control-label">Book id</label>
+				      <div class="col-lg-10">
+				        	<div class="list-group-item" id="inputEditBookId">
+				        	</div>
+				      </div>
+			    </div>
+    		</form>
+	      </div>
+	      <div class="modal-footer">
+	        	<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        	<button type="button" id="edit-book" class="btn btn-primary" data-dismiss="modal">Edit</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+
+
+
+	<script src="../libs/jquery-2.1.1.min.js"></script>
+	<script src="../libs/bootstrap.min.js"></script>
+	<script src="scripts/ajaxRequester.js"></script>
+	<script src="scripts/service.js"></script>
+	<script src="scripts/app.js"></script>
+</body>
+</html>
