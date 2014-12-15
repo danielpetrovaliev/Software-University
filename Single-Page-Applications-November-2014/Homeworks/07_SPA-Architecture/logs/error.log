@@ -1,0 +1,195 @@
+[Sat Dec 06 21:55:38.176997 2014] [include:warn] [pid 9388] [client 127.0.0.1:46690] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:55:38.753953 2014] [include:warn] [pid 9388] [client 127.0.0.1:46690] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /views/home.html HTTP/1.1" 200 59
+127.0.0.1 - - [06/Dec/2014:21:55:38 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 21:55:40.454218 2014] [include:warn] [pid 9388] [client 127.0.0.1:46690] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/books.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:55:40 +0200] "GET /views/books.html HTTP/1.1" 200 4100
+127.0.0.1 - - [06/Dec/2014:21:55:40 +0200] "GET /scripts/books.js?_=1417895738701 HTTP/1.1" 200 3366
+127.0.0.1 - - [06/Dec/2014:21:55:44 +0200] "GET /scripts/books.js?_=1417895738702 HTTP/1.1" 200 3366
+[Sat Dec 06 21:56:09.217968 2014] [include:warn] [pid 9390] [client 127.0.0.1:46700] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:56:09.429396 2014] [include:warn] [pid 9391] [client 127.0.0.1:46701] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/books.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /views/books.html HTTP/1.1" 200 4100
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+127.0.0.1 - - [06/Dec/2014:21:56:09 +0200] "GET /scripts/books.js?_=1417895769353 HTTP/1.1" 200 3366
+[Sat Dec 06 21:56:10.413419 2014] [include:warn] [pid 9391] [client 127.0.0.1:46701] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:56:10.576614 2014] [include:warn] [pid 9391] [client 127.0.0.1:46701] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/books.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /views/books.html HTTP/1.1" 200 4100
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /scripts/books.js?_=1417895770559 HTTP/1.1" 200 3366
+127.0.0.1 - - [06/Dec/2014:21:56:10 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 21:56:11.186474 2014] [include:warn] [pid 9391] [client 127.0.0.1:46701] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:56:11.341636 2014] [include:warn] [pid 9390] [client 127.0.0.1:46700] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/books.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /views/books.html HTTP/1.1" 200 4100
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /scripts/books.js?_=1417895771329 HTTP/1.1" 200 3366
+127.0.0.1 - - [06/Dec/2014:21:56:11 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+127.0.0.1 - - [06/Dec/2014:21:56:14 +0200] "GET /scripts/books.js?_=1417895771330 HTTP/1.1" 200 3366
+[Sat Dec 06 21:58:46.743409 2014] [include:warn] [pid 9392] [client 127.0.0.1:46775] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:58:46.968279 2014] [include:warn] [pid 9392] [client 127.0.0.1:46775] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:58:46 +0200] "GET /views/home.html HTTP/1.1" 200 101
+127.0.0.1 - - [06/Dec/2014:21:58:47 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 21:59:43.273719 2014] [include:warn] [pid 10492] [client 127.0.0.1:46790] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 21:59:43.495400 2014] [include:warn] [pid 9389] [client 127.0.0.1:46791] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /views/home.html HTTP/1.1" 200 148
+127.0.0.1 - - [06/Dec/2014:21:59:43 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:00:25.672723 2014] [include:warn] [pid 10490] [client 127.0.0.1:46802] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:00:25.838110 2014] [include:warn] [pid 13743] [client 127.0.0.1:46805] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /views/home.html HTTP/1.1" 200 173
+127.0.0.1 - - [06/Dec/2014:22:00:25 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:00:26.657879 2014] [include:warn] [pid 13743] [client 127.0.0.1:46805] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:00:26.791907 2014] [include:warn] [pid 9392] [client 127.0.0.1:46804] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /views/home.html HTTP/1.1" 200 173
+127.0.0.1 - - [06/Dec/2014:22:00:26 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:00:27.013580 2014] [include:warn] [pid 9392] [client 127.0.0.1:46804] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:00:27.153009 2014] [include:warn] [pid 10491] [client 127.0.0.1:46803] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /views/home.html HTTP/1.1" 200 173
+127.0.0.1 - - [06/Dec/2014:22:00:27 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:14.232918 2014] [include:warn] [pid 10493] [client 127.0.0.1:46847] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+[Sat Dec 06 22:01:14.382599 2014] [include:warn] [pid 12818] [client 127.0.0.1:46849] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /views/home.html HTTP/1.1" 200 182
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:14.875016 2014] [include:warn] [pid 12818] [client 127.0.0.1:46849] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:14 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:01:15.050266 2014] [include:warn] [pid 9389] [client 127.0.0.1:46850] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /views/home.html HTTP/1.1" 200 182
+127.0.0.1 - - [06/Dec/2014:22:01:15 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:38.129381 2014] [include:warn] [pid 13743] [client 127.0.0.1:46857] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:01:38.334594 2014] [include:warn] [pid 10493] [client 127.0.0.1:46861] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /views/home.html HTTP/1.1" 200 157
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:38.800029 2014] [include:warn] [pid 10493] [client 127.0.0.1:46861] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:01:38 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:01:39.003935 2014] [include:warn] [pid 15222] [client 127.0.0.1:46860] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /views/home.html HTTP/1.1" 200 157
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:39.190820 2014] [include:warn] [pid 15222] [client 127.0.0.1:46860] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:01:39.362602 2014] [include:warn] [pid 13743] [client 127.0.0.1:46857] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:39 +0200] "GET /views/home.html HTTP/1.1" 200 157
+[Sat Dec 06 22:01:45.607094 2014] [include:warn] [pid 10492] [client 127.0.0.1:46863] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET / HTTP/1.1" 200 838
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /libs/bootstrap.min.css HTTP/1.1" 200 113498
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /libs/bootstrap-theme.min.css HTTP/1.1" 200 19835
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /libs/jquery-2.1.1.min.js HTTP/1.1" 200 84245
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /scripts/ajaxRequester.js HTTP/1.1" 200 1034
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /libs/bootstrap.min.js HTTP/1.1" 200 35601
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /scripts/service.js HTTP/1.1" 200 734
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /scripts/router.js HTTP/1.1" 200 724
+[Sat Dec 06 22:01:45.761187 2014] [include:warn] [pid 9392] [client 127.0.0.1:46865] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /views/home.html HTTP/1.1" 200 140
+127.0.0.1 - - [06/Dec/2014:22:01:45 +0200] "GET /favicon.ico HTTP/1.1" 404 1029
+[Sat Dec 06 22:01:49.353142 2014] [include:warn] [pid 9392] [client 127.0.0.1:46865] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/books.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:49 +0200] "GET /views/books.html HTTP/1.1" 200 4100
+127.0.0.1 - - [06/Dec/2014:22:01:49 +0200] "GET /scripts/books.js?_=1417896105747 HTTP/1.1" 200 3366
+[Sat Dec 06 22:01:50.266072 2014] [include:warn] [pid 9392] [client 127.0.0.1:46865] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:50 +0200] "GET /views/home.html HTTP/1.1" 200 140
+127.0.0.1 - - [06/Dec/2014:22:01:50 +0200] "GET /scripts/books.js?_=1417896105748 HTTP/1.1" 200 3366
+[Sat Dec 06 22:01:52.782127 2014] [include:warn] [pid 9392] [client 127.0.0.1:46865] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /views/home.html, referer: http://books.bg/
+127.0.0.1 - - [06/Dec/2014:22:01:52 +0200] "GET /views/home.html HTTP/1.1" 200 140

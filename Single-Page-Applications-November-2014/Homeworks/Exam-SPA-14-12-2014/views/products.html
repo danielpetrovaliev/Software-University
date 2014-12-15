@@ -1,0 +1,72 @@
+<!-- Delete product form -->
+<section id="delete-product-container">
+    <div class="delete-product-form">
+        <header class="main-header">Delete product</header>
+        <div class="data">
+            <label>Name:</label>
+            <input type="text" id="product-name" value="3 Windows" disabled/>
+            <label>Category:</label>
+            <input type="text" id="product-category" value="Other" disabled/>
+            <label>Price:</label>
+            <input type="text" id="product-price" value="44.00" disabled>
+        </div>
+        <div class="panel">
+            <button id="delete-product-button" class="button">Delete</button>
+            <a href="#/products">
+                <button class="button cancel-button">Cancel</button>
+            </a>
+        </div>
+    </div>
+</section>
+
+<br />
+
+<!-- Edit product form -->
+<section id="edit-product-container">
+    <div class="edit-product-form">
+        <header class="main-header">Edit product</header>
+        <div class="data">
+            <label for="item-name">Name:</label>
+            <input type="text" id="item-name" value="" placeholder="Name..."/>
+            <label for="category">Category:</label>
+            <input type="text" id="category" value="" placeholder="Category..."/>
+            <label for="price">Price:</label>
+            <input type="text" id="price" value="" placeholder="0.00"/>
+        </div>
+        <div class="panel">
+            <button id="edit-product-button" class="button">Edit</button>
+            <a href="#/products">
+                <button class="button cancel-button">Cancel</button>
+            </a>
+        </div>
+    </div>
+</section>
+<br />
+
+<!-- Products list -->
+<section>
+    <aside class="filters">
+        <h3>Filter</h3>
+        <input id="search-bar" class="search-bar" type="text" placeholder="Keyword.."/>
+        <label>Price:</label>
+        <input id="min-price" class="input-num" type="number" value="0" min="0"/>
+        <span>-</span>
+        <input id="max-price" class="input-num" type="number" value="10000"/>
+        <label>Category:</label>
+        <select id="category" class="category">
+            <option value="All">All</option>
+            <option value="Animals">Animals</option>
+            <option value="Food">Food</option>
+            <option value="Other">Other</option>
+        </select>
+        <button id="filter" class="filter-button">Filter</button>
+        <p class="clear-filters" id="clear-filters">Clear filters</p>
+    </aside>
+    <div class="products">
+        <ul id="products-container">
+            
+        </ul>
+    </div>
+</section>
+
+<script src="scripts/products.js"></script>
