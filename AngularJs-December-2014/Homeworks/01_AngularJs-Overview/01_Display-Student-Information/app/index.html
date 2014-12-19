@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>my first angular app</title>
+  <link rel="stylesheet" type="text/css" href="lib/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="lib/dist/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="css/app.css"/>
+</head>
+<body ng-app="app" ng-controller="StudentController">
+
+	<div class="container">
+    <div class="jumbotron">
+  		<div class="row">
+        <div class="col-md-6">
+          <p>
+            <strong>Name: </strong> {{student.name}}
+          </p>
+          <p>
+            <strong>Grade: </strong> {{student.grade}}
+          </p>
+          <p>
+            <strong>School: </strong> {{student.school}}
+          </p>
+          <p>
+            <strong>Teacher: </strong> {{student.teacher}}
+          </p>
+        </div>
+        <div class="col-md-6">
+          <img ng-src="{{student.photo}}" src="" alt="">
+        </div>
+      </div>      
+    </div>
+	</div>
+
+  <script type="text/javascript" src="lib/angular-1.2.28/angular.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers/studentController.js"></script>
+</body>
+</html>
