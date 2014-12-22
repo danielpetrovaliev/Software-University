@@ -1,0 +1,13 @@
+.form-group.required .control-label:after {
+  content:" *";
+  color:red;
+}
+
+.dateQuery{
+	display: inline-block !important; 
+	width: 85px;
+}
+
+input, select{
+	display: inline-block !important;
+}

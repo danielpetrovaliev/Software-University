@@ -1,0 +1,76 @@
+<div class="well bs-component" ng-controller="Add-Video-Controller">
+	<form name="addVideo" class="form-horizontal">
+	  <fieldset>
+	    <legend>Add video</legend>
+	    <div class="form-group required"
+	  		ng-class="{'has-error': addVideo.title.$dirty && addVideo.title.$invalid, 'has-success': addVideo.title.$dirty && addVideo.title.$valid}">
+	      <label for="title" class="col-lg-2 control-label">Title</label>
+	      <div class="col-lg-10">
+	        <input type="text" 
+	        required 
+	        name="title"
+	        class="form-control"
+	        id="title" 
+	        placeholder="Title"
+	        ng-model="video.title">
+	      </div>
+	    </div>
+	    <div class="form-group required"
+	  		ng-class="{'has-error': addVideo.category.$dirty && addVideo.category.$invalid, 'has-success': addVideo.category.$dirty && addVideo.category.$valid}">
+	      <label for="category" class="col-lg-2 control-label">Category</label>
+	      <div class="col-lg-10">
+	        <input type="text" 
+	        required 
+	        name="category"
+	        class="form-control"
+	        id="category" 
+	        placeholder="Title"
+	        ng-model="video.category">
+	      </div>
+	    </div>
+	    <div class="form-group required"
+			ng-class="{'has-error': addVideo.url.$dirty && addVideo.url.$invalid, 'has-success': addVideo.url.$dirty && addVideo.url.$valid}">
+	      <label for="pictureUrl" class="col-lg-2 control-label">Picture URL</label>
+	      <div class="col-lg-10">
+	        <input type="url"
+	        	ng-pattern="/(https?:\/\/.*\.(?:png|jpg|gif|jpeg))/i"
+	        	required
+	        	name="url"
+	        	class="form-control" 
+	        	id="pictureUrl" 
+	        	placeholder="Picture URL"
+	        	ng-model="video.pictureUrl">
+	      </div>
+	    </div>
+	    <div class="form-group">
+	      <label class="col-lg-2 control-label">Subtitles</label>
+	      <div class="col-lg-10">
+	        <div class="radio">
+	          <label>
+	            <input ng-model="video.haveSubtitles" type="radio" name="subtitles" id="optionsRadios1" value="true" checked="">
+	            Yes
+	          </label>
+	        </div>
+	        <div class="radio">
+	          <label>
+	            <input ng-model="video.haveSubtitles" type="radio" name="subtitles" id="optionsRadios2" value="false">
+	            No
+	          </label>
+	        </div>
+	      </div>
+	    </div>
+	    <div class="form-group">
+	      <label for="date" class="col-lg-2 control-label">Date</label>
+	      <div class="col-lg-10">
+	        <input type="date" ng-model="video.date" class="form-control" id="date">
+	      </div>
+	    </div>
+	    <div class="form-group">
+	      <div class="col-lg-10 col-lg-offset-2">
+	        <button ng-click="cancelAdd()" class="btn btn-default">Cancel</button>
+	        <button ng-click="saveVideo(video)" ng-disabled="addVideo.$invalid" class="btn btn-primary">Submit</button>
+	      </div>
+	    </div>
+	  </fieldset>
+	</form>
+</div>

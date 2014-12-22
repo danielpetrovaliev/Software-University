@@ -1,0 +1,78 @@
+<div class="row" ng-controller="Home-Controller">
+	<div data-spy="affix" aside-bar>
+	  <div class="col-sm-2">
+	    <div class="well bs-sidebar affix" id="sidebar">
+	    <h4>Filter By: </h4>
+	      <ul class="nav nav-pills nav-stacked">
+	        <li>
+	        	<p>
+		        	<strong>Category</strong>: 
+		        	<select ng-model="categoryQuery" name="category">
+		        		<option ng-repeat="(key, category) in categories track by key" value="{{category}}">{{category}}</option>
+		        	</select>	
+	        	</p>
+	        </li>
+	        <li>
+	        	<p>
+	        		<strong>Subtitles</strong>: 
+		        	<select ng-model="subtitlesQuery" value="None" name="subtitles">
+		        		<option value="true">Yes</option>
+		        		<option value="false">No</option>
+		        	</select>
+	        	</p>
+	        </li>
+	        <li>
+	        	<p>
+		        	<strong>Date</strong>: 
+		        	<input type="text" class="form-control dateQuery" name="dateQuery" ng-model="dateQuery" value="" placeholder="dd/mm/yyyy">
+				</p>
+	        </li>
+	      </ul>
+	      <h4>Order By: </h4>
+	      <ul class="nav nav-pills nav-stacked">
+	        <li>
+	        	Title
+	        	<input type="radio" ng-model="sort" name="orderBy" value="title" placeholder="">
+	        </li>
+	        <li>
+	        	Date
+	        	<input type="radio" ng-model="sort" name="orderBy" value="date" placeholder="">
+	        </li>
+	        <li>
+	        	Likes
+	        	<input type="radio" ng-model="sort" name="orderBy" value="subscribers" placeholder="">
+	        </li>
+	      </ul>
+	    </div> <!--well bs-sidebar affix-->
+	  </div> <!--col-sm-3-->
+	</div>
+	<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+		<h1>Videos: </h1>
+		<div ng-repeat="video in filtred = (videos | orderBy: sort:reversed | filter: categoryQuery | filter: subtitlesQuery | filter: dateQuery)" class="row jumbotron">
+			<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				<h2 class="text-center">{{video.title}}</h2>
+				<p>
+					<strong>Category: </strong> {{video.category}}
+				</p>
+				<p>
+					<strong>Subscribers: </strong> {{video.subscribers}}
+				</p>
+				<p>
+					<strong>Length: </strong> {{video.length}}
+				</p>
+				<p>
+					<strong>Date: </strong> {{video.date}}
+				</p>
+				<p>
+					<strong>Subtitles: </strong> {{video.haveSubtitles | haveSubtitles}}
+				</p>
+				<p>
+					<strong>Comments: </strong> {{video.comments.length}}
+				</p>
+			</div>
+			<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				<img ng-src="{{video.pictureUrl}}" class="img" src="" alt="">
+			</div>
+		</div>
+	</div>
+</div>
