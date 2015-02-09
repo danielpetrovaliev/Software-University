@@ -1,0 +1,3 @@
+A table is an accepted visual representation of a relation; a tuple is similar to the concept of a row.
+A table in an SQL database schema corresponds to a predicate variable; the contents of a table to a relation; 
+key constraints, other constraints, and SQL queries correspond to predicates.

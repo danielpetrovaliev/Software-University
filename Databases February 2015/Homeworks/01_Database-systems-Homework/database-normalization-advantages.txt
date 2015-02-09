@@ -1,0 +1,5 @@
+1. The  database does not have redundant data, it is smaller in size so less money  needs to be spent on storage.
+2. Because  there is less data to search through, it is much faster to run a query on the  data.
+3. Because  there is no data duplication there is better data integrity and less risk of  mistakes.
+4. Because  there is no data duplication there is less chance of storing two or more  different copies of the data.
+5. Once  change can be made which can instantly be cascaded across any related records.

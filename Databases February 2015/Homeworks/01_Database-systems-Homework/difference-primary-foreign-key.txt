@@ -1,0 +1,2 @@
+Primary key is the unique key of a table, for example ID.
+As for foreign key, it's a key to define the relationship between two tables.

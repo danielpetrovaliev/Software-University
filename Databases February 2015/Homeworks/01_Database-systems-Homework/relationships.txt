@@ -1,0 +1,17 @@
+1.One-to-one: 
+	Both tables can have only one record on either side of the relationship. 
+	Each primary key value relates to only one (or no) record in the related table. 
+	They're like spouses—you may or may not be married, but if you are, both you and your spouse have only one spouse. 
+	Most one-to-one relationships are forced by business rules and don't flow naturally from the data. 
+	In the absence of such a rule, you can usually combine both tables into one table without breaking any normalization rules.
+
+2.One-to-many: 
+	The primary key table contains only one record that relates to none, one, or many records in the related table. 
+	This relationship is similar to the one between you and a parent. 
+	You have only one mother, but your mother may have several children.
+
+3. Many-to-many: 
+	Each record in both tables can relate to any number of records (or no records) in the other table. 
+	For instance, if you have several siblings, so do your siblings (have many siblings). 
+	Many-to-many relationships require a third table, known as an associate or linking table, 
+	because relational systems can't directly accommodate the relationship.

@@ -1,0 +1,4 @@
+1. Creating / altering / deleting tables and relationships between them (database schema)
+2. Adding, changing, deleting, searching and retrieving of data ows stored in the tables
+3. Support for the SQL language
+4. Transaction management (optional)
