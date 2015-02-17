@@ -1,0 +1,1 @@
+SELECT REPLACE(CONVERT(NVARCHAR, getdate(), 104), ' ', '.') + ' ' + REPLACE(CONVERT(NVARCHAR, getdate(), 14), ' ', '.') as DateTime
