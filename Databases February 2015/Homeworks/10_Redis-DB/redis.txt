@@ -1,0 +1,31 @@
+0)flushall
+1)sadd authors:usernames gogo tosho pepo
+2)smembers authors:usernames
+3)hset authors:gogo name "Georgi Georgiev"
+  hset authors:gogo age 21
+  hset authors:gogo email "ggeorgiev@softuni.bg"
+  hset authors:gogo phone "+359 889 945 867"
+  hset authors:tosho name "Todor Todorov"
+  hset authors:tosho age 28
+  hset authors:tosho email "ttodorov@softuni.bg
+  hset authors:tosho phone "+359 888 888 888"
+  hset authors:pepo name "Peter Petrov"
+  hset authors:pepo age 26
+  hset authors:pepo email "ppetrov@softuni.bg"
+  hset authors:pepo phone "+359 999 999 999"
+4)set ads:count 3
+5)hset ad:1 title "Sell Fixie - 700$"
+  hset ad:1 description "Fixed-gear bicycle"
+  hset ad:1 location "Sofia"
+  hset ad:1 date "22/02/2015"
+  hset ad:1 author "pepo"
+  hset ad:2 title "Car - BMW M5"
+  hset ad:2 description "Cool car for only 50000$"
+  hset ad:2 location "Plovdiv"
+  hset ad:2 date "22/01/2015"
+  hset ad:2 author "tosho"
+  hset ad:3 title "Apartment for sell"
+  hset ad:3 description "Big and fancy apartment - only 150000$"
+  hset ad:3 location "Varna"
+  hset ad:3 date "22/12/2014"
+  hset ad:3 author "gogo"
