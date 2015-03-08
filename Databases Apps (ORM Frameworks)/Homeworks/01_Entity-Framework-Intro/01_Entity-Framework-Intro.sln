@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Create-SoftUni-database", "01_Create-DbContext-for-the-SoftUni-database\01_Create-SoftUni-database.csproj", "{BD1A01DD-B0AC-48ED-80E6-4B4128315004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Create-DAO-Class", "02_Create-DAO-Class\02_Create-DAO-Class.csproj", "{F17E4576-52DC-4BA4-8CED-1DCDECAC6199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Write-a-method-that-find-employees", "03_Write-a-method-that-find-employees\03_Write-a-method-that-find-employees.csproj", "{BFF5147D-5EA6-4813-AA46-C683D7C8884B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_All-Employees-Native-SQL-query", "04_All-Employees-Native-SQL-query\04_All-Employees-Native-SQL-query.csproj", "{6D7DE35D-A2CB-4BF9-8DAD-A94AA8680F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Employees-by-departmet-and-manager", "05_Employees-by-departmet-and-manager\05_Employees-by-departmet-and-manager.csproj", "{43A50C9A-070B-408C-8AA5-2F3FC70E7F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Different-data-contexts", "07_Different-data-contexts\06_Different-data-contexts.csproj", "{845BAE97-ACF8-4151-84E5-A722EC4365BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Add-new-Project-with-Transaction", "09_Add-new-Project-with-Transaction\08_Add-new-Project-with-Transaction.csproj", "{4D455399-340E-4D0C-BB81-C91EC2662C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Stored-Procedure-in-SoftUni-DB", "10_Stored-Procedure-in-SoftUni-DB\09_Stored-Procedure-in-SoftUni-DB.csproj", "{494F3D64-1DB1-4906-9CB8-14A7BD85D9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Create-database-UsersGroups", "11_Create-database-UsersGroups\10_Create-database-UsersGroups.csproj", "{4CF146CA-5C00-4578-8E22-6961BD66AE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Class-employees-access-territories", "08_Class-employees-access-territories\07_Class-employees-access-territories.csproj", "{EFB788BE-F0B9-489B-BBCF-62BA025A2476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1A01DD-B0AC-48ED-80E6-4B4128315004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1A01DD-B0AC-48ED-80E6-4B4128315004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1A01DD-B0AC-48ED-80E6-4B4128315004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1A01DD-B0AC-48ED-80E6-4B4128315004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17E4576-52DC-4BA4-8CED-1DCDECAC6199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17E4576-52DC-4BA4-8CED-1DCDECAC6199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17E4576-52DC-4BA4-8CED-1DCDECAC6199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17E4576-52DC-4BA4-8CED-1DCDECAC6199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF5147D-5EA6-4813-AA46-C683D7C8884B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF5147D-5EA6-4813-AA46-C683D7C8884B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF5147D-5EA6-4813-AA46-C683D7C8884B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF5147D-5EA6-4813-AA46-C683D7C8884B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7DE35D-A2CB-4BF9-8DAD-A94AA8680F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7DE35D-A2CB-4BF9-8DAD-A94AA8680F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7DE35D-A2CB-4BF9-8DAD-A94AA8680F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7DE35D-A2CB-4BF9-8DAD-A94AA8680F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A50C9A-070B-408C-8AA5-2F3FC70E7F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A50C9A-070B-408C-8AA5-2F3FC70E7F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A50C9A-070B-408C-8AA5-2F3FC70E7F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A50C9A-070B-408C-8AA5-2F3FC70E7F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845BAE97-ACF8-4151-84E5-A722EC4365BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845BAE97-ACF8-4151-84E5-A722EC4365BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845BAE97-ACF8-4151-84E5-A722EC4365BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845BAE97-ACF8-4151-84E5-A722EC4365BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D455399-340E-4D0C-BB81-C91EC2662C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D455399-340E-4D0C-BB81-C91EC2662C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D455399-340E-4D0C-BB81-C91EC2662C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D455399-340E-4D0C-BB81-C91EC2662C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494F3D64-1DB1-4906-9CB8-14A7BD85D9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494F3D64-1DB1-4906-9CB8-14A7BD85D9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494F3D64-1DB1-4906-9CB8-14A7BD85D9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494F3D64-1DB1-4906-9CB8-14A7BD85D9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF146CA-5C00-4578-8E22-6961BD66AE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF146CA-5C00-4578-8E22-6961BD66AE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF146CA-5C00-4578-8E22-6961BD66AE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF146CA-5C00-4578-8E22-6961BD66AE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB788BE-F0B9-489B-BBCF-62BA025A2476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB788BE-F0B9-489B-BBCF-62BA025A2476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB788BE-F0B9-489B-BBCF-62BA025A2476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB788BE-F0B9-489B-BBCF-62BA025A2476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
