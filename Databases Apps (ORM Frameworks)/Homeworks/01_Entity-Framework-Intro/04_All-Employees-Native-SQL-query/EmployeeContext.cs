@@ -16,13 +16,16 @@ namespace _04_All_Employees_Native_SQL_query
                         "ON [ep].[EmployeeID] = [e].[EmployeeID]" +
                         "JOIN Projects [p]" +
                         "ON [p].[ProjectID] = [ep].[ProjectID]" +
-                        "WHERE YEAR([p].[StartDate]) = '2002'" +
+                        "WHERE YEAR([p].[StartDate]) = '{0}'" +
                         "GROUP BY [e].[FirstName]" +
                         "ORDER BY [e].[FirstName]";
 
-            var employees = softUniEntities.Database.SqlQuery<Employee>(query).FirstOrDefault();
+            var employeeFirstNames = softUniEntities.Database.SqlQuery<string>(String.Format(query, projectStartDateYear)).ToList();
 
-            Console.WriteLine(employees.FirstName);
+            foreach (var employeeFirstName in employeeFirstNames)
+            {
+                Console.WriteLine(employeeFirstName);
+            }
         }
     }
 }
