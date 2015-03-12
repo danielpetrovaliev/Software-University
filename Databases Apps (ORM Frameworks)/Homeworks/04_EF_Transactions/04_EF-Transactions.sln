@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Models", "News.Models\News.Models.csproj", "{407BE565-C72A-43F7-A9E4-BF3874870E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Data", "News.Data\News.Data.csproj", "{EFFF5538-1BE3-4228-831B-4F2EF2F86706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Concurrent-Update", "02_Concurrent-Update\02_Concurrent-Update.csproj", "{D0121D9B-CB53-460C-9235-AE19DA52E3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ATM.Data-Models", "05_ATM.Data-Models\05_ATM.Data-Models.csproj", "{3F07FD0D-9C3B-4FCA-BD42-161BDA917052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-06_ATM.Transactional-Withdrawal", "05-06_ATM.Transactional-Withdrawal\05-06_ATM.Transactional-Withdrawal.csproj", "{2AEC68C4-4999-44C4-83D8-84E2C5CA3120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Unit-tests-ATM", "07_Unit-tests-ATM\07_Unit-tests-ATM.csproj", "{EDC9DE03-EB2D-433C-91F0-BBE9BFEA6E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407BE565-C72A-43F7-A9E4-BF3874870E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407BE565-C72A-43F7-A9E4-BF3874870E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407BE565-C72A-43F7-A9E4-BF3874870E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407BE565-C72A-43F7-A9E4-BF3874870E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFF5538-1BE3-4228-831B-4F2EF2F86706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFF5538-1BE3-4228-831B-4F2EF2F86706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFF5538-1BE3-4228-831B-4F2EF2F86706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFF5538-1BE3-4228-831B-4F2EF2F86706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0121D9B-CB53-460C-9235-AE19DA52E3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0121D9B-CB53-460C-9235-AE19DA52E3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0121D9B-CB53-460C-9235-AE19DA52E3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0121D9B-CB53-460C-9235-AE19DA52E3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F07FD0D-9C3B-4FCA-BD42-161BDA917052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F07FD0D-9C3B-4FCA-BD42-161BDA917052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F07FD0D-9C3B-4FCA-BD42-161BDA917052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F07FD0D-9C3B-4FCA-BD42-161BDA917052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEC68C4-4999-44C4-83D8-84E2C5CA3120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEC68C4-4999-44C4-83D8-84E2C5CA3120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEC68C4-4999-44C4-83D8-84E2C5CA3120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEC68C4-4999-44C4-83D8-84E2C5CA3120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC9DE03-EB2D-433C-91F0-BBE9BFEA6E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC9DE03-EB2D-433C-91F0-BBE9BFEA6E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC9DE03-EB2D-433C-91F0-BBE9BFEA6E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC9DE03-EB2D-433C-91F0-BBE9BFEA6E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
