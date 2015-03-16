@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.dpetrovaliev.com/schemas/library"
+  targetNamespace="http://www.dpetrovaliev.com/schemas/library"
+>
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="student" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType> 
+  </xs:element>
+
+  <xs:element name="student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name"/>
+        <xs:element ref="gender"/>
+        <xs:element ref="birth-date"/>
+        <xs:element ref="phone-number" minOccurs="0"/>
+        <xs:element ref="email"/>
+        <xs:element ref="university"/>
+        <xs:element ref="speciality"/>
+        <xs:element ref="faculty-number" minOccurs="0"/>
+        <xs:element ref="exams"/>
+        <xs:element ref="endorsements" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="endorsements">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="author"/>
+        <xs:element ref="author-email"/>
+        <xs:element ref="endorsement-date"/>
+        <xs:element ref="endorsement-text"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="exams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="exam" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="exam">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="exam-name"/>
+        <xs:element ref="exam-date"/>
+        <xs:element ref="exam-grade" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="author" type="xs:string"/>
+  <xs:element name="author-email" type="xs:string"/>
+  <xs:element name="endorsement-date" type="xs:dateTime"/>
+  <xs:element name="endorsement-text" type="xs:string"/>
+  <xs:element name="exam-name" type="xs:string"/>
+  <xs:element name="exam-date" type="xs:dateTime"/>
+  <xs:element name="exam-grade" type="xs:decimal"/>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="gender" type="xs:string"/>
+  <xs:element name="birth-date" type="xs:dateTime"/>
+  <xs:element name="phone-number" type="xs:string"/>
+  <xs:element name="email" type="xs:string"/>
+  <xs:element name="university" type="xs:string"/>
+  <xs:element name="speciality" type="xs:string"/>
+  <xs:element name="faculty-number" type="xs:string"/>
+
+</xs:schema>
+
+

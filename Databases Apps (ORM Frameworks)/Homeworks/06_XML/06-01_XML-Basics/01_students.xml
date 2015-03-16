@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students
+  xmlns="http://www.dpetrovaliev.com/schemas/library"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.dpetrovaliev.com/schemas/library file://./library.xsd">
+  <student>
+    <name>Pesho</name>
+    <gender>Male</gender>
+    <birth-date>2002-05-30T09:00:00</birth-date>
+    <phone-number>0885789654</phone-number>
+    <email>pesho@pesho.com</email>
+    <university>SoftUni</university>
+    <speciality>Software Engineering</speciality>
+    <faculty-number>78965413548</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>OOP</exam-name>
+        <exam-date>2001-10-26T21:32:52</exam-date>
+        <exam-grade>6.00</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>OOP</exam-name>
+        <exam-date>2001-10-26T21:32:52</exam-date>
+        <exam-grade>6.00</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>OOP</exam-name>
+        <exam-date>2001-10-26T21:32:52</exam-date>
+        <exam-grade>6.00</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>OOP</exam-name>
+        <exam-date>2001-10-26T21:32:52</exam-date>
+        <exam-grade>6.00</exam-grade>
+      </exam>
+    </exams>
+  </student>
+</students>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<root-dir path="../../../folder">
+  <file name="file-in-folder - Copy (2).txt" />
+  <file name="file-in-folder - Copy (3).txt" />
+  <file name="file-in-folder - Copy (4).txt" />
+  <file name="file-in-folder - Copy.txt" />
+  <file name="file-in-folder.txt" />
+  <dir name="folder2">
+    <file name="file-in-folder2 - Copy (2).txt" />
+    <file name="file-in-folder2 - Copy (3).txt" />
+    <file name="file-in-folder2 - Copy.txt" />
+    <file name="file-in-folder2.txt" />
+    <dir name="folder3">
+      <file name="file-in-folder3 - Copy (2).txt" />
+      <file name="file-in-folder3 - Copy (3).txt" />
+      <file name="file-in-folder3 - Copy.txt" />
+      <file name="file-in-folder3.txt" />
+    </dir>
+  </dir>
+</root-dir>
