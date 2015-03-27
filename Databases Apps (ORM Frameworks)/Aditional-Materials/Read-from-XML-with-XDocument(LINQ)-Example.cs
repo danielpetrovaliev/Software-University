@@ -1,3 +1,5 @@
+// Easy way to select from XmlDocument => doc.XPathSelectElements("queries/query")
+
 static void Main(string[] args)
 {
 	XDocument doc = XDocument.Load("../../../files-for-import/rivers.xml");

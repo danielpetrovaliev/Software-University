@@ -1,0 +1,6 @@
+Select All that match at least one =>
+
+string[] countriesNames = {"Romania", "Bulgaria", "Austria"};           
+var rivers = db.Rivers
+              .Where(r => countriesNames.All(name => r.Countries.Any(c => c.CountryName == name)))
+              .ToList();
