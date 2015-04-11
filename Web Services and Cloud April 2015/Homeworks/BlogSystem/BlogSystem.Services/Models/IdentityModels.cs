@@ -1,3 +1,0 @@
-﻿namespace BlogSystem.Services.Models
-{
-}
